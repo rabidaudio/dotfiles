@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="notification-audio-volume-medium.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9999997"
+     inkscape:cx="-27.141306"
+     inkscape:cy="24.165391"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2989" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <path
+       style="fill:#dcdcdc;fill-opacity:1;stroke:none"
+       d="M 24 9 C 15.715728 9 9 15.715728 9 24 C 9 32.284272 15.715728 39 24 39 C 32.284272 39 39 32.284272 39 24 C 39 15.715728 32.284272 9 24 9 z M 24 11 C 31.179702 11 37 16.820298 37 24 C 37 31.179702 31.179702 37 24 37 C 16.820298 37 11 31.179702 11 24 C 11 16.820298 16.820298 11 24 11 z M 24 13 C 17.924868 13 13 17.9249 13 24 C 13 30.0751 17.924868 35 24 35 C 30.075132 35 35 30.0751 35 24 C 35 17.9249 30.075132 13 24 13 z M 24 20 C 26.209139 20 28 21.7909 28 24 C 28 26.2091 26.209139 28 24 28 C 21.790861 28 20 26.2091 20 24 C 20 21.7909 21.790861 20 24 20 z "
+       transform="translate(0,1004.3622)"
+       id="path3123" />
+  </g>
+</svg>

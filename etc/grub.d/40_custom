@@ -1,0 +1,20 @@
+#!/bin/sh
+exec tail -n +3 $0
+# This file provides an easy way to add custom menu entries.  Simply type the
+# menu entries you want to add after this comment.  Be careful not to change
+# the 'exec tail' line above.
+
+
+#/boot/dban-2.2.7_i586.iso
+#hd0,3
+#menuentry "DBAN ISO" {
+# loopback loop /dban.iso
+# linux (loop)/DBAN.BZI nuke="dwipe" iso-scan/filename=/dban.iso silent --
+#}
+
+menuentry "Darik's Boot And Nuke (DBAN) 2.2.7" --class iso {
+  set isofile="dban-2.2.7_i586.iso"
+  set partition="3"
+  loopback loop (hd0,$partition)/$isofile
+  linux (loop)/DBAN.BZI nuke="dwipe --method zero autonuke"
+}

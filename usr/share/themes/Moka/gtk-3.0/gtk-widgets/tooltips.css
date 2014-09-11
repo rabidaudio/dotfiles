@@ -1,0 +1,18 @@
+/************
+ * Tooltips *
+ ************/
+ 
+.tooltip {
+    padding: 4px;
+    border-style: none;
+    border-radius: 5px;
+
+    background-color: alpha(@theme_tooltip_bg_color, 0.90);
+    color: @theme_tooltip_fg_color;
+
+    text-shadow: 1px 1px black;
+}
+
+.tooltip * {
+    background-color: transparent;
+}

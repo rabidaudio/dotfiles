@@ -1,0 +1,79 @@
+/**************
+ * Header Bar *
+ **************/
+.header-bar {
+    border-width: 0 0 1px;
+    border-style: solid;
+    border-color: shade(@borders, 0.8);
+    padding: 0 2px;
+    background-image: linear-gradient(to bottom,
+                                      @toolbar_gradient_color_a,
+                                      @toolbar_gradient_color_b
+                                      );
+}
+
+.header-bar .button.text-button {
+    padding: 2px 4px;
+}
+
+.header-bar .button.image-button {
+    padding: 4px 3px 3px 4px;
+}
+
+.header-bar GtkComboBox,
+.header-bar .button {
+    border-color: shade(@borders, 0.8);
+    background-image: linear-gradient(to bottom,
+                                      @button_gradient_color_a,
+                                      @button_gradient_color_b
+                                      );
+}
+
+.header-bar .button:hover {
+    border-color: shade(@borders, 0.8);
+    background-image: linear-gradient(to bottom,
+                                      @button_hover_gradient_color_a,
+                                      @button_hover_gradient_color_b
+                                      );
+}
+
+.header-bar .button:active {
+    border-color: shade(@borders, 0.8);
+    background-image: linear-gradient(to bottom,
+                                      @button_active_gradient_color_a,
+                                      @button_active_gradient_color_b
+                                      );
+}
+
+.header-bar .button:focus,
+.header-bar .button:hover:focus,
+.header-bar .button:active:focus,
+.header-bar .button:active:hover,
+.header-bar .button:active:hover:focus,
+.header-bar .entry,
+.header-bar .entry:active,
+.header-bar .entry:focus {
+    border-color: shade(@borders, 0.8);
+}
+
+.header-bar .button:insensitive {
+    border-color: shade(@borders, 0.8);
+    background-color: shade(@toolbar_bg_color, 1.0);
+    background-image: none;
+}
+
+.header-bar .button:active:insensitive {
+    border-color: shade(@borders, 1.0);
+    background-color: shade(@toolbar_bg_color, 1.0);
+    background-image: none;
+}
+
+.header-bar .button .separator,
+.header-bar .button.separator {
+    border-color: shade(@toolbar_bg_color, 0.95);
+}
+
+.header-bar .button .separator:insensitive,
+.header-bar .button.separator:insensitive {
+    border-color: shade(@toolbar_bg_color, 0.85);
+}

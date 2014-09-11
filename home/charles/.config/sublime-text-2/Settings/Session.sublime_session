@@ -1,0 +1,3261 @@
+{
+	"folder_history":
+	[
+		"/home/charles/bands",
+		"/home/charles/Dropbox/Projects/Utterson",
+		"/home/charles/Dropbox/Projects/blog",
+		"/home/charles/Dropbox/Projects/truthiness/alchemyapi_node",
+		"/home/charles/dad",
+		"/home/charles/Dropbox/Projects/TeamFutureForFirefox",
+		"/home/charles/Dropbox/Projects/curiosa",
+		"/home/charles/Turbine27",
+		"/home/charles/YikHak",
+		"/home/charles",
+		"/home/charles/Dropbox/Projects/chrome-project-bundle-extension/src",
+		"/home/charles/code_for_atlanta/open_elections/core",
+		"/home/charles/mjpeg",
+		"/home/charles/AndroidStudio/android-dragonfly/node-img-stream-test",
+		"/home/charles/Dropbox/Class/3040",
+		"/home/charles/AndroidStudio",
+		"/home/charles/food-data",
+		"/home/charles/socrata-test",
+		"/home/charles/Dropbox/Projects/groupedit",
+		"/home/charles/Dropbox/resume",
+		"/home/charles/Dropbox/Projects/light-shirt",
+		"/home/charles/Downloads/ruby",
+		"/home/charles/Dropbox/Projects/CarMediaPlayer",
+		"/home/charles/getnotes/test-experiments",
+		"/home/charles/getnotes/bigbang",
+		"/home/charles/Dropbox/Projects/webtorrent/docs",
+		"/home/charles/Dropbox/Projects/webtorrent/bittorrent-dht",
+		"/home/charles/Dropbox/Projects/stream-talk",
+		"/home/charles/Dropbox/Projects/groceries",
+		"/home/charles/Dropbox/Projects/groceries/marketing_site",
+		"/home/charles/getnotes/audio-processing",
+		"/home/charles/Dropbox/Projects/startup_exchange/sx_website/startup-exchange-web-new",
+		"/home/charles/curiosa",
+		"/home/charles/Dropbox/Projects/hackathons/secret-computing-machine",
+		"/home/charles/voyeur",
+		"/home/charles/getnotes/bigbang/application"
+	],
+	"last_window_id": 73,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"last",
+						"Lastfm"
+					],
+					[
+						"ba",
+						"band_info"
+					],
+					[
+						"reverbna",
+						"reverbnation"
+					],
+					[
+						"band",
+						"band_info"
+					],
+					[
+						"st",
+						"state"
+					],
+					[
+						"Las",
+						"LastFM"
+					],
+					[
+						"new",
+						"new_result"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"api",
+						"api_key"
+					],
+					[
+						"opt",
+						"options"
+					],
+					[
+						"get_",
+						"get_query_option"
+					],
+					[
+						"get",
+						"get_query_option"
+					],
+					[
+						"LAST",
+						"LASTFM_SECRET"
+					],
+					[
+						"co",
+						"comments"
+					],
+					[
+						"bad",
+						"band_data"
+					],
+					[
+						"modu",
+						"module_function"
+					],
+					[
+						"art",
+						"artist_page"
+					],
+					[
+						"user",
+						"user_agent"
+					],
+					[
+						"sear",
+						"search_page"
+					],
+					[
+						"de",
+						"debug"
+					],
+					[
+						"D",
+						"Debug"
+					],
+					[
+						"aut",
+						"authorView"
+					],
+					[
+						"a",
+						"authors"
+					],
+					[
+						"ath",
+						"author"
+					],
+					[
+						"to",
+						"toJSON"
+					],
+					[
+						"ban",
+						"backbone-relational"
+					],
+					[
+						"highlight",
+						"highlightjs"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"ca",
+						"callback"
+					],
+					[
+						"esca",
+						"escapeURL"
+					],
+					[
+						"post",
+						"postsView"
+					],
+					[
+						"high",
+						"highlight"
+					],
+					[
+						"Handle",
+						"Handlebars"
+					],
+					[
+						"togg",
+						"toggleVisible"
+					],
+					[
+						"tem",
+						"template"
+					],
+					[
+						"rend",
+						"rendered"
+					],
+					[
+						"template",
+						"template_id"
+					],
+					[
+						"pat",
+						"pathToString"
+					],
+					[
+						"pr",
+						"properSort"
+					],
+					[
+						"pro",
+						"proper_path"
+					],
+					[
+						"mp",
+						"mp3_files"
+					],
+					[
+						"tra",
+						"track_name"
+					],
+					[
+						"alb",
+						"album_dir"
+					],
+					[
+						"ar",
+						"artist_dir"
+					],
+					[
+						"Id",
+						"ID3"
+					],
+					[
+						"has",
+						"hashRegex"
+					],
+					[
+						"conf",
+						"configName"
+					],
+					[
+						"email",
+						"emailRegex"
+					],
+					[
+						"en",
+						"enumOnOff"
+					],
+					[
+						"par",
+						"parseInt"
+					],
+					[
+						"nu",
+						"numberOfLikes"
+					],
+					[
+						"ap",
+						"api_prefix"
+					],
+					[
+						"se",
+						"sendResponse"
+					],
+					[
+						"w",
+						"window_id"
+					],
+					[
+						"ac",
+						"active_tab"
+					],
+					[
+						"windo",
+						"window_settings"
+					],
+					[
+						"mj",
+						"mjpegReqHandler"
+					],
+					[
+						"diff",
+						"diffpatch"
+					],
+					[
+						"diffch",
+						"diffchars"
+					],
+					[
+						"ed",
+						"editor_textarea"
+					],
+					[
+						"editor",
+						"editor-textarea"
+					],
+					[
+						"Strea",
+						"streamLength"
+					],
+					[
+						"stre",
+						"stream_length"
+					],
+					[
+						"onE",
+						"onErr"
+					],
+					[
+						"on",
+						"onReadable"
+					],
+					[
+						"time",
+						"time_skip"
+					],
+					[
+						"spea",
+						"speaker_options"
+					],
+					[
+						"set",
+						"_set_state"
+					],
+					[
+						"play",
+						"play_pause"
+					],
+					[
+						"gui",
+						"gui_menu_context"
+					],
+					[
+						"track",
+						"track_sort"
+					],
+					[
+						"key",
+						"keymap"
+					],
+					[
+						"ha",
+						"_handle_data"
+					],
+					[
+						"shou",
+						"should_not"
+					],
+					[
+						"random",
+						"random_string"
+					],
+					[
+						"Zend_",
+						"Zend_Exception"
+					],
+					[
+						"payment",
+						"payment_id"
+					],
+					[
+						"max",
+						"max_combined_requests"
+					],
+					[
+						"con",
+						"connection"
+					],
+					[
+						"el",
+						"elements"
+					],
+					[
+						"payme",
+						"paymentObj"
+					],
+					[
+						"cost_of_",
+						"cost_of_transcriber"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"setORder",
+						"setOrderChronologically"
+					],
+					[
+						"current",
+						"currentUser"
+					],
+					[
+						"rou",
+						"routing_number"
+					],
+					[
+						"Zend_Form",
+						"Zend_Form_Element_Hidden"
+					],
+					[
+						"with",
+						"withdraw-form"
+					],
+					[
+						"_send",
+						"_send400"
+					],
+					[
+						"curren",
+						"currentUser"
+					],
+					[
+						"line",
+						"linebreaks"
+					],
+					[
+						"lin",
+						"linebreaks"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"bg_",
+						"bg_index"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"vide",
+						"video-embedded"
+					],
+					[
+						"prev",
+						"previous_context"
+					],
+					[
+						"pre",
+						"previous_context"
+					],
+					[
+						"arti",
+						"artists"
+					],
+					[
+						"ser",
+						"serialPort"
+					],
+					[
+						"ob",
+						"objRespond"
+					],
+					[
+						"gra",
+						"gravatar_url"
+					],
+					[
+						"transc",
+						"transcriber_id"
+					],
+					[
+						"transcr",
+						"transcriber_value"
+					],
+					[
+						"Appl",
+						"Application_Model_UserMapper"
+					],
+					[
+						"phon",
+						"phone_filter"
+					],
+					[
+						"onKe",
+						"onKeyF12"
+					],
+					[
+						"User",
+						"UserModel"
+					],
+					[
+						"mo",
+						"mongoose"
+					],
+					[
+						"mon",
+						"mongoose"
+					],
+					[
+						"albu",
+						"album_sort"
+					],
+					[
+						"libra",
+						"library_dir"
+					],
+					[
+						"library",
+						"library_file"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"sera",
+						"serialPort"
+					],
+					[
+						"c",
+						"console"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"comma",
+						"command_buffer"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 32.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					],
+					[
+						"jshint",
+						"JSHint"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Enable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"js",
+						"JSHint"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remv",
+						"Package Control: Remove Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"set ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"Todo",
+						"Set Syntax: Todo"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						"markdo",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"mak",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"latex",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"latex ",
+						"LaTeXTools: Jump to PDF"
+					],
+					[
+						"lint",
+						"JSLint"
+					],
+					[
+						"javascr",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"github",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"githu",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"gith",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"github pre",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"remove a",
+						"Package Control: Remove Package"
+					],
+					[
+						"spell",
+						"Google Spell Check"
+					],
+					[
+						"preview",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"packagees",
+						"Package Control: List Packages"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git diff",
+						"Git: Diff Staged"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git d",
+						"Git: Diff All"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"packages",
+						"Package Control: List Packages"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: add re",
+						"Package Control: Add Repository"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: list",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 466.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/charles/bands/rn_scrape.rb",
+				"/home/charles/bands/lastfm.rb",
+				"/home/charles/bands/songkick.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/request.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/artist.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client.rb",
+				"/home/charles/bands/songkick_ruby/songkick_ruby.gemspec",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/event.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/search.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/calendar.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/errors.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/user.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick.rb",
+				"/home/charles/bands/to_hash_monkeypatch.rb",
+				"/home/charles/bands/soundcloud.rb",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/main.js",
+				"/home/charles/bands/nbs.rb",
+				"/home/charles/bands/.gitignore",
+				"/home/charles/Downloads/.org.chromium.Chromium.Bpc3ZY",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/helper/debug.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/bower_components/debug/Readme.md",
+				"/home/charles/Dropbox/Projects/Utterson/.jshintrc",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/post.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/models/post.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/main.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/styles/main.scss",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/posts.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/collections/post.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/collections/author.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/models/author.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/post.hbs",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/author.hbs",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/author.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/styles/main.css",
+				"/home/charles/Dropbox/Projects/Utterson/blog/data/author_store.json",
+				"/home/charles/Dropbox/Projects/Utterson/blog/data/authors/0.json",
+				"/home/charles/Dropbox/Projects/Utterson/README.md",
+				"/home/charles/Dropbox/Projects/Utterson/Gruntfile.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/data/custom.css",
+				"/home/charles/Dropbox/Projects/Utterson/blog/styles/base.scss",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/routes/router.js",
+				"/home/charles/.config/sublime-text-2/Packages/User/Jshintify.sublime-settings",
+				"/home/charles/Dropbox/Projects/Utterson/.tmp/scripts/templates.js",
+				"/home/charles/Dropbox/Projects/Utterson/.yo-rc.json",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/q.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/xpost.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/xposts.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/posts.hbs",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/posts.ejs",
+				"/home/charles/Dropbox/Projects/Utterson/blog/index.html",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/models/post.js",
+				"/home/charles/Dropbox/Projects/blog/blog/index.html",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/templates/post.hbs",
+				"/home/charles/Dropbox/Projects/blog/blog2/scripts/main.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/main.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/posts.js",
+				"/home/charles/Dropbox/Projects/blog/blog2/index.html",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/collections/author.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/collections/post.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/models/author.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/post.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/author.js",
+				"/home/charles/Dropbox/Projects/blog/blog/data/author_store.json",
+				"/home/charles/Dropbox/Projects/blog/blog/data/authors/0",
+				"/home/charles/Dropbox/Projects/blog/blog/data/posts_store.json",
+				"/home/charles/Dropbox/Projects/blog/blog/data/posts/2",
+				"/home/charles/Dropbox/Projects/blog/blog/data/posts/0",
+				"/home/charles/Dropbox/Projects/blog/blog/data/content/posts/1",
+				"/home/charles/Dropbox/Projects/blog/TODO.md",
+				"/home/charles/Dropbox/Projects/blog/README.md",
+				"/home/charles/Dropbox/Projects/blog/bower.json",
+				"/home/charles/Dropbox/Projects/blog/Gruntfile.js",
+				"/home/charles/Dropbox/Projects/blog/TODOm.md",
+				"/home/charles/Dropbox/Projects/blog/blog/styles/base.scss",
+				"/home/charles/Dropbox/Projects/blog/blog/data/custom.css",
+				"/home/charles/Dropbox/Projects/truthiness/alchemyapi_node/.gitignore",
+				"/home/charles/Dropbox/Projects/truthiness/alchemyapi_node/package.json",
+				"/home/charles/Dropbox/Projects/blog/app/styles/base.scss",
+				"/home/charles/Dropbox/Projects/blog/.bowerrc",
+				"/home/charles/Dropbox/Projects/blog/.gitignore",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/main.js",
+				"/home/charles/Dropbox/Projects/blog/js/post.js",
+				"/home/charles/Dropbox/Projects/blog/js/routes.js",
+				"/home/charles/Dropbox/Projects/blog/js/author.js",
+				"/home/charles/Dropbox/Projects/blog/TODO",
+				"/home/charles/Dropbox/Projects/blog/index.html",
+				"/home/charles/Dropbox/Projects/blog/.yo-rc.json",
+				"/home/charles/Dropbox/Projects/blog/.editorconfig",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/models/author.js",
+				"/home/charles/Dropbox/Projects/blog/package.json",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/collections/post.js",
+				"/home/charles/Dropbox/Projects/blog/app/index.html",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/models/post.js",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/views/post.js",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/views/posts.js",
+				"/home/charles/Dropbox/Projects/blog/app/data/posts_store.json",
+				"/home/charles/Dropbox/Projects/blog/app/data/posts/3.md",
+				"/home/charles/Dropbox/Projects/blog/app/data/posts/1.md",
+				"/home/charles/Dropbox/Projects/blog/app/data/posts/2.md",
+				"/home/charles/Dropbox/Projects/blog/app/styles/main.scss",
+				"/home/charles/Dropbox/Projects/blog/index.js",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/collections/posts.js",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/models/posts.js",
+				"/home/charles/Dropbox/Projects/blog/app/styles/main.css",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/routes/router.js",
+				"/home/charles/Dropbox/Projects/blog/data/posts_store.json",
+				"/home/charles/Dropbox/Projects/blog/css/base/base.css",
+				"/home/charles/Dropbox/Projects/blog/posts_store.json",
+				"/home/charles/Dropbox/Projects/blog/posts/1.md",
+				"/home/charles/Dropbox/Projects/blog/base.css",
+				"/home/charles/Dropbox/Projects/blog/vendor/highlight.js",
+				"/home/charles/Dropbox/Projects/blog/posts/2.md",
+				"/home/charles/Dropbox/Projects/blog/author_store.json",
+				"/home/charles/Dropbox/Projects/blog/post_store.js",
+				"/home/charles/dad/index.html",
+				"/home/charles/dad/index.js",
+				"/home/charles/dad/routes.js",
+				"/home/charles/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/charles/.config/sublime-text-2/Packages/User/MarkdownPreview.sublime-settings",
+				"/home/charles/.config/sublime-text-2/Packages/Markdown Preview/Default.sublime-commands",
+				"/home/charles/.config/sublime-text-2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/home/charles/Desktop/wira.mdown",
+				"/home/charles/dad/tags.js",
+				"/home/charles/Dropbox/Projects/CarMediaPlayer/main.js",
+				"/home/charles/Dropbox/Projects/CarMediaPlayer/db.js",
+				"/home/charles/Dropbox/Projects/CarMediaPlayer/tags.js",
+				"/home/charles/Dropbox/Projects/TeamFutureForFirefox/package.json",
+				"/home/charles/Dropbox/Projects/chrome-regex-extension/manifest.json"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"/home/charles/bands/songkick_ruby/lib",
+					"/home/charles/Dropbox/Projects/Utterson/blog/scripts",
+					"",
+					"/home/charles/getnotes/bigbang/vendor/zendframework/zendframework1/library/Zend",
+					"/home/charles/getnotes/bigbang/vendor/zendframework",
+					"",
+					"/home/charles/getnotes/bigbang/public/library/Stripe",
+					"",
+					"/home/charles/getnotes/bigbang/application",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"result[\"artist\"]",
+					"remote",
+					"REMOTE",
+					"remote",
+					"API_URL",
+					"username",
+					"users/",
+					"username,",
+					"users/",
+					"users",
+					"irb(main):00",
+					"\"}, ",
+					"},",
+					"Lastfm",
+					"LastFM",
+					"LASTFM",
+					"LastFM",
+					"LASTFM",
+					"LastFM",
+					"lastfm_",
+					"q",
+					"\"",
+					"this",
+					"console",
+					"View",
+					"Debug",
+					"view",
+					"this",
+					"that",
+					"\"",
+					"Templates",
+					"JST",
+					"\"",
+					"sass",
+					"\"",
+					"source\")",
+					"\"",
+					"source\")",
+					"\"",
+					"source\")",
+					"\"",
+					"{\n",
+					"\"",
+					"handlebars",
+					"watch",
+					"handlebars",
+					"dist",
+					"JST",
+					"requ",
+					"bowerInstall",
+					"ignore",
+					"\"",
+					"app",
+					" (\\[.*\\])\\[(.*)\\] ",
+					"(\\[.*\\])\\[(.*)\\]",
+					"[XAMPP][http://www.apachefriends.org/index.html] every time I changed projects, so I whipped up a little project called [swank][https://github.com/rabidaudio/swank]",
+					"(\\[.*\\])\\[(.*)\\]",
+					"\\[.*\\]\\[\\]",
+					"(\\[.*\\])\\[\\]",
+					"((\\[.*\\])\\[\\]",
+					"hljs",
+					"console.log",
+					"m",
+					"datar",
+					"input",
+					"Input",
+					"\"",
+					"inputsSchema",
+					"Config",
+					"configSchema",
+					"json",
+					"mailto:",
+					"mailto:\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\\b",
+					"\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\\b",
+					" +",
+					"\\s+",
+					"\\s",
+					"this",
+					"n_p",
+					"\\ln",
+					"response",
+					"$(this).val()",
+					"console.log",
+					"require",
+					"less",
+					"dev",
+					"browserify",
+					"var ",
+					"create_speaker()",
+					"sudo",
+					"create",
+					"GUI",
+					"gui",
+					"GUI",
+					"IO",
+					"Library",
+					"that",
+					"e",
+					"underscore",
+					":",
+					"p",
+					"{ Helper.random_string }",
+					"@definition",
+					"@definition.random_string",
+					"MEOW",
+					"Helpers",
+					"::",
+					"Helpers",
+					"# ",
+					"random_string",
+					"end",
+					"configureProxies",
+					"Success",
+					"success",
+					"Success",
+					"success",
+					"approve",
+					"paypal_email",
+					"function getCode(",
+					"getCode(",
+					"Zend_Controller_Exception",
+					"Zend_Controller_Router_Exception",
+					"EXCEPTION_NO_ROUTE",
+					"Zend_Exception",
+					"error",
+					"test",
+					"\"",
+					"_order_chronologically"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"},\\n",
+					"'",
+					" \\1(\\2) ",
+					"\\1(\\2)",
+					"rData",
+					"\\t",
+					"&",
+					"\"",
+					"\"\\1\",",
+					"",
+					"function ",
+					"time_interval",
+					"=",
+					":",
+					"Player",
+					" IO"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 251.0
+			},
+			"output.git":
+			{
+				"height": 100.0
+			},
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"post.j",
+						"blog/scripts/models/post.js"
+					],
+					[
+						"post.js",
+						"blog/scripts/models/post.js"
+					],
+					[
+						"post",
+						"blog/scripts/views/post.js"
+					],
+					[
+						"posts.",
+						"blog/scripts/views/posts.js"
+					],
+					[
+						"post.",
+						"blog/scripts/models/post.js"
+					],
+					[
+						"author.js",
+						"blog/scripts/models/author.js"
+					],
+					[
+						"posts.js",
+						"app/scripts/collections/posts.js"
+					],
+					[
+						"posts.j",
+						"app/scripts/views/posts.js"
+					],
+					[
+						"internal",
+						"internal.h"
+					],
+					[
+						"st.h",
+						"include/ruby/st.h"
+					],
+					[
+						"ruby.h",
+						"include/ruby/ruby.h"
+					],
+					[
+						"appl",
+						"config/application.rb"
+					],
+					[
+						"env.",
+						"features/support/env.rb"
+					],
+					[
+						"to_payments",
+						"migrations/20140506224933_add_paypal_correlation_id_to_payments.php"
+					],
+					[
+						"payments",
+						"application/models/DbTable/Payments.php"
+					],
+					[
+						"util",
+						"application/library/Util.php"
+					],
+					[
+						"appli",
+						"application/configs/application.ini"
+					],
+					[
+						"admined",
+						"application/controllers/AdminEditorController.php"
+					],
+					[
+						"payment",
+						"application/models/DbTable/Payments.php"
+					],
+					[
+						"user",
+						"application/models/User.php"
+					],
+					[
+						"mytes",
+						"application/controllers/MytestController.php"
+					],
+					[
+						"feat",
+						"application/library/EnabledFeatures.php"
+					],
+					[
+						"transc",
+						"application/controllers/TranscriberController.php"
+					],
+					[
+						"dbtablepaym",
+						"application/models/DbTable/Payments.php"
+					],
+					[
+						"transcr",
+						"application/models/Transcriber.php"
+					],
+					[
+						"admincontr",
+						"application/controllers/AdminEditorController.php"
+					],
+					[
+						"adminco",
+						"application/controllers/AdminsController.php"
+					],
+					[
+						"dbtablepayments",
+						"application/models/DbTable/Payments.php"
+					],
+					[
+						"vendor/bin/phinx",
+						"vendor/robmorgan/phinx/src/Phinx/Db/Adapter/MysqlAdapter.php"
+					],
+					[
+						"phinx",
+						"vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php"
+					],
+					[
+						"completed_to",
+						"migrations/20140501225723_add_completed_to_payments.php"
+					],
+					[
+						"app",
+						"application/configs/application.ini"
+					],
+					[
+						"payme",
+						"application/controllers/PaymentController.php"
+					],
+					[
+						"log/mai",
+						"var/log/mail.log"
+					],
+					[
+						"admintransc",
+						"application/modules/admin/controllers/TranscribersController.php"
+					],
+					[
+						"paymentc",
+						"application/controllers/PaymentController.php"
+					],
+					[
+						"order",
+						"application/models/DbTable/Orders.php"
+					],
+					[
+						"transcriercon",
+						"application/controllers/TranscriberController.php"
+					],
+					[
+						"editor",
+						"application/views/scripts/transcriber/editor.phtml"
+					],
+					[
+						"clientc",
+						"application/controllers/ClientController.php"
+					],
+					[
+						"editor.p",
+						"application/views/scripts/transcriber/editor.phtml"
+					],
+					[
+						"_pages_edit",
+						"application/views/scripts/_pages/_editorMain.phtml"
+					],
+					[
+						"editor.ph",
+						"application/views/scripts/transcriber/editor.phtml"
+					],
+					[
+						"editorfilesplayer",
+						"public/editor/files/player.js"
+					],
+					[
+						"getnotescont",
+						"library/GetNotes/Controller/Action.php"
+					],
+					[
+						"trans",
+						"application/models/Transcriber.php"
+					],
+					[
+						"mytest",
+						"application/controllers/MytestController.php"
+					],
+					[
+						"transcri",
+						"application/models/Transcriber.php"
+					],
+					[
+						"admin",
+						"application/controllers/AdminEditorController.php"
+					],
+					[
+						"create_payments",
+						"migrations/20140409235618_create_payments_table.php"
+					],
+					[
+						"getnotesact",
+						"library/GetNotes/Controller/Action.php"
+					],
+					[
+						"getnotescontroller",
+						"library/GetNotes/Controller/Action.php"
+					],
+					[
+						"transcriberco",
+						"application/controllers/TranscriberController.php"
+					],
+					[
+						"transcriberget",
+						"application/views/scripts/transcriber/get.phtml"
+					],
+					[
+						"paymnts",
+						"application/models/DbTable/Payments.php"
+					],
+					[
+						"paypal",
+						"application/library/Paypal.php"
+					],
+					[
+						".md",
+						"development_setup.md"
+					],
+					[
+						"36",
+						"node_modules/lame/deps/mpg123/src/libmpg123/dct36_3dnow.S"
+					],
+					[
+						".gitig",
+						".gitignore"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"twi",
+						"application/library/Twilio.php"
+					],
+					[
+						"hellp",
+						"application/library/HelloSign.php"
+					],
+					[
+						"hello",
+						"application/library/HelloSign.php"
+					],
+					[
+						"hellos",
+						"application/library/HelloSign.php"
+					],
+					[
+						"twili",
+						"application/library/Twilio.php"
+					],
+					[
+						"applica",
+						"application/configs/application.ini"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"jobs-",
+						"application/views/scripts/admin-editor/jobs-pending.phtml"
+					],
+					[
+						"adminuser",
+						"application/modules/admin/views/scripts/users/get.phtml"
+					],
+					[
+						"transcrberm",
+						"application/models/TranscriberMapper.php"
+					],
+					[
+						"usermapper",
+						"application/models/UserMapper.php"
+					],
+					[
+						"transcriber",
+						"application/modules/admin/controllers/TranscribersController.php"
+					],
+					[
+						"dbtableorders",
+						"application/models/DbTable/Orders.php"
+					],
+					[
+						"adminc",
+						"application/controllers/AdminsController.php"
+					],
+					[
+						"comments",
+						"migrations/20140320031336_add_graded_to_order_status_id_comments.php"
+					],
+					[
+						"createpayments",
+						"migrations/20140409235618_create_payments_table.php"
+					],
+					[
+						".git",
+						".gitignore"
+					],
+					[
+						"user.",
+						"application/models/User.php"
+					],
+					[
+						"orders.",
+						"application/models/DbTable/Orders.php"
+					],
+					[
+						"orderslist",
+						"application/views/scripts/_lists/_ordersList.phtml"
+					],
+					[
+						"transcriber/",
+						"application/views/scripts/transcriber/index.phtml"
+					],
+					[
+						"models/tra",
+						"application/models/Transcriber.php"
+					],
+					[
+						"test",
+						"application/controllers/TestsController.php"
+					],
+					[
+						"applicat",
+						"application/configs/application.ini"
+					],
+					[
+						"getnotes/mail",
+						"library/GetNotes/Mailer.php"
+					],
+					[
+						"models/inv",
+						"application/models/Invitation.php"
+					],
+					[
+						"mailer/inv",
+						"application/views/scripts/mailer/transcriber-invite.html.phtml"
+					],
+					[
+						"mailer/new",
+						"application/views/scripts/mailer/new-transcriber.html.phtml"
+					],
+					[
+						"transcribersco",
+						"modules/admin/controllers/TranscribersController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 268.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"year",
+						"years_active"
+					],
+					[
+						"rev",
+						"reviews"
+					],
+					[
+						"st",
+						"stuff"
+					],
+					[
+						"last",
+						"Lastfm"
+					],
+					[
+						"ba",
+						"band_info"
+					],
+					[
+						"reverbna",
+						"reverbnation"
+					],
+					[
+						"band",
+						"band_info"
+					],
+					[
+						"Las",
+						"LastFM"
+					],
+					[
+						"new",
+						"new_result"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"api",
+						"api_key"
+					],
+					[
+						"opt",
+						"options"
+					],
+					[
+						"get_",
+						"get_query_option"
+					],
+					[
+						"get",
+						"get_query_option"
+					],
+					[
+						"LAST",
+						"LASTFM_SECRET"
+					],
+					[
+						"co",
+						"comments"
+					],
+					[
+						"bad",
+						"band_data"
+					],
+					[
+						"modu",
+						"module_function"
+					],
+					[
+						"art",
+						"artist_page"
+					],
+					[
+						"user",
+						"user_agent"
+					],
+					[
+						"sear",
+						"search_page"
+					],
+					[
+						"de",
+						"debug"
+					],
+					[
+						"D",
+						"Debug"
+					],
+					[
+						"aut",
+						"authorView"
+					],
+					[
+						"a",
+						"authors"
+					],
+					[
+						"ath",
+						"author"
+					],
+					[
+						"to",
+						"toJSON"
+					],
+					[
+						"ban",
+						"backbone-relational"
+					],
+					[
+						"highlight",
+						"highlightjs"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"ca",
+						"callback"
+					],
+					[
+						"esca",
+						"escapeURL"
+					],
+					[
+						"post",
+						"postsView"
+					],
+					[
+						"high",
+						"highlight"
+					],
+					[
+						"Handle",
+						"Handlebars"
+					],
+					[
+						"togg",
+						"toggleVisible"
+					],
+					[
+						"tem",
+						"template"
+					],
+					[
+						"rend",
+						"rendered"
+					],
+					[
+						"template",
+						"template_id"
+					],
+					[
+						"pat",
+						"pathToString"
+					],
+					[
+						"pr",
+						"properSort"
+					],
+					[
+						"pro",
+						"proper_path"
+					],
+					[
+						"mp",
+						"mp3_files"
+					],
+					[
+						"tra",
+						"track_name"
+					],
+					[
+						"alb",
+						"album_dir"
+					],
+					[
+						"ar",
+						"artist_dir"
+					],
+					[
+						"Id",
+						"ID3"
+					],
+					[
+						"has",
+						"hashRegex"
+					],
+					[
+						"conf",
+						"configName"
+					],
+					[
+						"email",
+						"emailRegex"
+					],
+					[
+						"en",
+						"enumOnOff"
+					],
+					[
+						"par",
+						"parseInt"
+					],
+					[
+						"nu",
+						"numberOfLikes"
+					],
+					[
+						"ap",
+						"api_prefix"
+					],
+					[
+						"se",
+						"sendResponse"
+					],
+					[
+						"w",
+						"window_id"
+					],
+					[
+						"ac",
+						"active_tab"
+					],
+					[
+						"windo",
+						"window_settings"
+					],
+					[
+						"mj",
+						"mjpegReqHandler"
+					],
+					[
+						"diff",
+						"diffpatch"
+					],
+					[
+						"diffch",
+						"diffchars"
+					],
+					[
+						"ed",
+						"editor_textarea"
+					],
+					[
+						"editor",
+						"editor-textarea"
+					],
+					[
+						"Strea",
+						"streamLength"
+					],
+					[
+						"stre",
+						"stream_length"
+					],
+					[
+						"onE",
+						"onErr"
+					],
+					[
+						"on",
+						"onReadable"
+					],
+					[
+						"time",
+						"time_skip"
+					],
+					[
+						"spea",
+						"speaker_options"
+					],
+					[
+						"set",
+						"_set_state"
+					],
+					[
+						"play",
+						"play_pause"
+					],
+					[
+						"gui",
+						"gui_menu_context"
+					],
+					[
+						"track",
+						"track_sort"
+					],
+					[
+						"key",
+						"keymap"
+					],
+					[
+						"ha",
+						"_handle_data"
+					],
+					[
+						"shou",
+						"should_not"
+					],
+					[
+						"random",
+						"random_string"
+					],
+					[
+						"Zend_",
+						"Zend_Exception"
+					],
+					[
+						"payment",
+						"payment_id"
+					],
+					[
+						"max",
+						"max_combined_requests"
+					],
+					[
+						"con",
+						"connection"
+					],
+					[
+						"el",
+						"elements"
+					],
+					[
+						"payme",
+						"paymentObj"
+					],
+					[
+						"cost_of_",
+						"cost_of_transcriber"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"setORder",
+						"setOrderChronologically"
+					],
+					[
+						"current",
+						"currentUser"
+					],
+					[
+						"rou",
+						"routing_number"
+					],
+					[
+						"Zend_Form",
+						"Zend_Form_Element_Hidden"
+					],
+					[
+						"with",
+						"withdraw-form"
+					],
+					[
+						"_send",
+						"_send400"
+					],
+					[
+						"curren",
+						"currentUser"
+					],
+					[
+						"line",
+						"linebreaks"
+					],
+					[
+						"lin",
+						"linebreaks"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"bg_",
+						"bg_index"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"vide",
+						"video-embedded"
+					],
+					[
+						"prev",
+						"previous_context"
+					],
+					[
+						"pre",
+						"previous_context"
+					],
+					[
+						"arti",
+						"artists"
+					],
+					[
+						"ser",
+						"serialPort"
+					],
+					[
+						"ob",
+						"objRespond"
+					],
+					[
+						"gra",
+						"gravatar_url"
+					],
+					[
+						"transc",
+						"transcriber_id"
+					],
+					[
+						"transcr",
+						"transcriber_value"
+					],
+					[
+						"Appl",
+						"Application_Model_UserMapper"
+					],
+					[
+						"phon",
+						"phone_filter"
+					],
+					[
+						"onKe",
+						"onKeyF12"
+					],
+					[
+						"User",
+						"UserModel"
+					],
+					[
+						"mo",
+						"mongoose"
+					],
+					[
+						"mon",
+						"mongoose"
+					],
+					[
+						"albu",
+						"album_sort"
+					],
+					[
+						"libra",
+						"library_dir"
+					],
+					[
+						"library",
+						"library_file"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"sera",
+						"serialPort"
+					],
+					[
+						"c",
+						"console"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"comma",
+						"command_buffer"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/charles/bands/main.rb",
+					"settings":
+					{
+						"buffer_size": 135718,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/charles/bands/discovery",
+					"settings":
+					{
+						"buffer_size": 3283,
+						"line_ending": "Unix",
+						"name": "booking@badearl.com"
+					}
+				},
+				{
+					"file": "/home/charles/bands/echonest.rb",
+					"settings":
+					{
+						"buffer_size": 2910,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/charles/bands/app/public/index.html",
+					"settings":
+					{
+						"buffer_size": 5211,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/charles/bands/app/public/js/main.js",
+					"settings":
+					{
+						"buffer_size": 121649,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/charles/bands/app/app.js",
+					"settings":
+					{
+						"buffer_size": 1592,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/charles/bands/api_keys.rb",
+					"settings":
+					{
+						"buffer_size": 318,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 32.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					],
+					[
+						"jshint",
+						"JSHint"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Enable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"js",
+						"JSHint"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remv",
+						"Package Control: Remove Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"set ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"Todo",
+						"Set Syntax: Todo"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						"markdo",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"mak",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"latex",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"latex ",
+						"LaTeXTools: Jump to PDF"
+					],
+					[
+						"lint",
+						"JSLint"
+					],
+					[
+						"javascr",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"github",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"githu",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"gith",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"github pre",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"remove a",
+						"Package Control: Remove Package"
+					],
+					[
+						"spell",
+						"Google Spell Check"
+					],
+					[
+						"preview",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"packagees",
+						"Package Control: List Packages"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git diff",
+						"Git: Diff Staged"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git d",
+						"Git: Diff All"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"packages",
+						"Package Control: List Packages"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: add re",
+						"Package Control: Add Repository"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: list",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 466.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/charles/bands/app/app.js",
+				"/home/charles/bands/api_keys.rb",
+				"/home/charles/bands/lastfm.rb",
+				"/home/charles/bands/.gitignore",
+				"/home/charles/bands/mongo.rb",
+				"/home/charles/bands/echonest.rb",
+				"/home/charles/bands/echowrap/lib/echowrap/artist.rb",
+				"/home/charles/bands/nbs.rb",
+				"/home/charles/bands/songkick.rb",
+				"/home/charles/bands/rn_scrape.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/request.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/artist.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client.rb",
+				"/home/charles/bands/songkick_ruby/songkick_ruby.gemspec",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/event.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/search.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/calendar.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/errors.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick/client/user.rb",
+				"/home/charles/bands/songkick_ruby/lib/songkick.rb",
+				"/home/charles/bands/to_hash_monkeypatch.rb",
+				"/home/charles/bands/soundcloud.rb",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/main.js",
+				"/home/charles/Downloads/.org.chromium.Chromium.Bpc3ZY",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/helper/debug.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/bower_components/debug/Readme.md",
+				"/home/charles/Dropbox/Projects/Utterson/.jshintrc",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/post.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/models/post.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/main.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/styles/main.scss",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/posts.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/collections/post.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/collections/author.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/models/author.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/post.hbs",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/author.hbs",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/author.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/styles/main.css",
+				"/home/charles/Dropbox/Projects/Utterson/blog/data/author_store.json",
+				"/home/charles/Dropbox/Projects/Utterson/blog/data/authors/0.json",
+				"/home/charles/Dropbox/Projects/Utterson/README.md",
+				"/home/charles/Dropbox/Projects/Utterson/Gruntfile.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/data/custom.css",
+				"/home/charles/Dropbox/Projects/Utterson/blog/styles/base.scss",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/routes/router.js",
+				"/home/charles/.config/sublime-text-2/Packages/User/Jshintify.sublime-settings",
+				"/home/charles/Dropbox/Projects/Utterson/.tmp/scripts/templates.js",
+				"/home/charles/Dropbox/Projects/Utterson/.yo-rc.json",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/q.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/xpost.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/xposts.js",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/posts.hbs",
+				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/posts.ejs",
+				"/home/charles/Dropbox/Projects/Utterson/blog/index.html",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/models/post.js",
+				"/home/charles/Dropbox/Projects/blog/blog/index.html",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/templates/post.hbs",
+				"/home/charles/Dropbox/Projects/blog/blog2/scripts/main.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/main.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/posts.js",
+				"/home/charles/Dropbox/Projects/blog/blog2/index.html",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/collections/author.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/collections/post.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/models/author.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/post.js",
+				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/author.js",
+				"/home/charles/Dropbox/Projects/blog/blog/data/author_store.json",
+				"/home/charles/Dropbox/Projects/blog/blog/data/authors/0",
+				"/home/charles/Dropbox/Projects/blog/blog/data/posts_store.json",
+				"/home/charles/Dropbox/Projects/blog/blog/data/posts/2",
+				"/home/charles/Dropbox/Projects/blog/blog/data/posts/0",
+				"/home/charles/Dropbox/Projects/blog/blog/data/content/posts/1",
+				"/home/charles/Dropbox/Projects/blog/TODO.md",
+				"/home/charles/Dropbox/Projects/blog/README.md",
+				"/home/charles/Dropbox/Projects/blog/bower.json",
+				"/home/charles/Dropbox/Projects/blog/Gruntfile.js",
+				"/home/charles/Dropbox/Projects/blog/TODOm.md",
+				"/home/charles/Dropbox/Projects/blog/blog/styles/base.scss",
+				"/home/charles/Dropbox/Projects/blog/blog/data/custom.css",
+				"/home/charles/Dropbox/Projects/truthiness/alchemyapi_node/.gitignore",
+				"/home/charles/Dropbox/Projects/truthiness/alchemyapi_node/package.json",
+				"/home/charles/Dropbox/Projects/blog/app/styles/base.scss",
+				"/home/charles/Dropbox/Projects/blog/.bowerrc",
+				"/home/charles/Dropbox/Projects/blog/.gitignore",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/main.js",
+				"/home/charles/Dropbox/Projects/blog/js/post.js",
+				"/home/charles/Dropbox/Projects/blog/js/routes.js",
+				"/home/charles/Dropbox/Projects/blog/js/author.js",
+				"/home/charles/Dropbox/Projects/blog/TODO",
+				"/home/charles/Dropbox/Projects/blog/index.html",
+				"/home/charles/Dropbox/Projects/blog/.yo-rc.json",
+				"/home/charles/Dropbox/Projects/blog/.editorconfig",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/models/author.js",
+				"/home/charles/Dropbox/Projects/blog/package.json",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/collections/post.js",
+				"/home/charles/Dropbox/Projects/blog/app/index.html",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/models/post.js",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/views/post.js",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/views/posts.js",
+				"/home/charles/Dropbox/Projects/blog/app/data/posts_store.json",
+				"/home/charles/Dropbox/Projects/blog/app/data/posts/3.md",
+				"/home/charles/Dropbox/Projects/blog/app/data/posts/1.md",
+				"/home/charles/Dropbox/Projects/blog/app/data/posts/2.md",
+				"/home/charles/Dropbox/Projects/blog/app/styles/main.scss",
+				"/home/charles/Dropbox/Projects/blog/index.js",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/collections/posts.js",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/models/posts.js",
+				"/home/charles/Dropbox/Projects/blog/app/styles/main.css",
+				"/home/charles/Dropbox/Projects/blog/app/scripts/routes/router.js",
+				"/home/charles/Dropbox/Projects/blog/data/posts_store.json",
+				"/home/charles/Dropbox/Projects/blog/css/base/base.css",
+				"/home/charles/Dropbox/Projects/blog/posts_store.json",
+				"/home/charles/Dropbox/Projects/blog/posts/1.md",
+				"/home/charles/Dropbox/Projects/blog/base.css",
+				"/home/charles/Dropbox/Projects/blog/vendor/highlight.js",
+				"/home/charles/Dropbox/Projects/blog/posts/2.md",
+				"/home/charles/Dropbox/Projects/blog/author_store.json",
+				"/home/charles/Dropbox/Projects/blog/post_store.js",
+				"/home/charles/dad/index.html",
+				"/home/charles/dad/index.js",
+				"/home/charles/dad/routes.js",
+				"/home/charles/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/charles/.config/sublime-text-2/Packages/User/MarkdownPreview.sublime-settings",
+				"/home/charles/.config/sublime-text-2/Packages/Markdown Preview/Default.sublime-commands",
+				"/home/charles/.config/sublime-text-2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/home/charles/Desktop/wira.mdown",
+				"/home/charles/dad/tags.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"/home/charles/bands/songkick_ruby/lib",
+					"/home/charles/Dropbox/Projects/Utterson/blog/scripts",
+					"",
+					"/home/charles/getnotes/bigbang/vendor/zendframework/zendframework1/library/Zend",
+					"/home/charles/getnotes/bigbang/vendor/zendframework",
+					"",
+					"/home/charles/getnotes/bigbang/public/library/Stripe",
+					"",
+					"/home/charles/getnotes/bigbang/application",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"tags",
+					"”",
+					"mbid",
+					"result[\"artist\"]",
+					"remote",
+					"REMOTE",
+					"remote",
+					"API_URL",
+					"username",
+					"users/",
+					"username,",
+					"users/",
+					"users",
+					"irb(main):00",
+					"\"}, ",
+					"},",
+					"Lastfm",
+					"LastFM",
+					"LASTFM",
+					"LastFM",
+					"LASTFM",
+					"LastFM",
+					"lastfm_",
+					"q",
+					"\"",
+					"this",
+					"console",
+					"View",
+					"Debug",
+					"view",
+					"this",
+					"that",
+					"\"",
+					"Templates",
+					"JST",
+					"\"",
+					"sass",
+					"\"",
+					"source\")",
+					"\"",
+					"source\")",
+					"\"",
+					"source\")",
+					"\"",
+					"{\n",
+					"\"",
+					"handlebars",
+					"watch",
+					"handlebars",
+					"dist",
+					"JST",
+					"requ",
+					"bowerInstall",
+					"ignore",
+					"\"",
+					"app",
+					" (\\[.*\\])\\[(.*)\\] ",
+					"(\\[.*\\])\\[(.*)\\]",
+					"[XAMPP][http://www.apachefriends.org/index.html] every time I changed projects, so I whipped up a little project called [swank][https://github.com/rabidaudio/swank]",
+					"(\\[.*\\])\\[(.*)\\]",
+					"\\[.*\\]\\[\\]",
+					"(\\[.*\\])\\[\\]",
+					"((\\[.*\\])\\[\\]",
+					"hljs",
+					"console.log",
+					"m",
+					"datar",
+					"input",
+					"Input",
+					"\"",
+					"inputsSchema",
+					"Config",
+					"configSchema",
+					"json",
+					"mailto:",
+					"mailto:\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\\b",
+					"\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\\b",
+					" +",
+					"\\s+",
+					"\\s",
+					"this",
+					"n_p",
+					"\\ln",
+					"response",
+					"$(this).val()",
+					"console.log",
+					"require",
+					"less",
+					"dev",
+					"browserify",
+					"var ",
+					"create_speaker()",
+					"sudo",
+					"create",
+					"GUI",
+					"gui",
+					"GUI",
+					"IO",
+					"Library",
+					"that",
+					"e",
+					"underscore",
+					":",
+					"p",
+					"{ Helper.random_string }",
+					"@definition",
+					"@definition.random_string",
+					"MEOW",
+					"Helpers",
+					"::",
+					"Helpers",
+					"# ",
+					"random_string",
+					"end",
+					"configureProxies",
+					"Success",
+					"success",
+					"Success",
+					"success",
+					"approve",
+					"paypal_email",
+					"function getCode(",
+					"getCode(",
+					"Zend_Controller_Exception",
+					"Zend_Controller_Router_Exception",
+					"EXCEPTION_NO_ROUTE",
+					"Zend_Exception",
+					"error"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"},\\n",
+					"'",
+					" \\1(\\2) ",
+					"\\1(\\2)",
+					"rData",
+					"\\t",
+					"&",
+					"\"",
+					"\"\\1\",",
+					"",
+					"function ",
+					"time_interval",
+					"=",
+					":",
+					"Player",
+					" IO"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/charles/bands"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/charles/bands/main.rb",
+							"settings":
+							{
+								"buffer_size": 135718,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										312,
+										312
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 24.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/charles/bands/discovery",
+							"settings":
+							{
+								"buffer_size": 3283,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1142,
+										1142
+									]
+								],
+								"settings":
+								{
+									"auto_name": "booking@badearl.com",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/charles/bands/echonest.rb",
+							"settings":
+							{
+								"buffer_size": 2910,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										853,
+										853
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/charles/bands/app/public/index.html",
+							"settings":
+							{
+								"buffer_size": 5211,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4589,
+										4589
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1395.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/charles/bands/app/public/js/main.js",
+							"settings":
+							{
+								"buffer_size": 121649,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										121180,
+										121180
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/charles/bands/app/app.js",
+							"settings":
+							{
+								"buffer_size": 1592,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/charles/bands/api_keys.rb",
+							"settings":
+							{
+								"buffer_size": 318,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										283,
+										283
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 251.0
+			},
+			"output.git":
+			{
+				"height": 100.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1600,900",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"post.j",
+						"blog/scripts/models/post.js"
+					],
+					[
+						"post.js",
+						"blog/scripts/models/post.js"
+					],
+					[
+						"post",
+						"blog/scripts/views/post.js"
+					],
+					[
+						"posts.",
+						"blog/scripts/views/posts.js"
+					],
+					[
+						"post.",
+						"blog/scripts/models/post.js"
+					],
+					[
+						"author.js",
+						"blog/scripts/models/author.js"
+					],
+					[
+						"posts.js",
+						"app/scripts/collections/posts.js"
+					],
+					[
+						"posts.j",
+						"app/scripts/views/posts.js"
+					],
+					[
+						"internal",
+						"internal.h"
+					],
+					[
+						"st.h",
+						"include/ruby/st.h"
+					],
+					[
+						"ruby.h",
+						"include/ruby/ruby.h"
+					],
+					[
+						"appl",
+						"config/application.rb"
+					],
+					[
+						"env.",
+						"features/support/env.rb"
+					],
+					[
+						"to_payments",
+						"migrations/20140506224933_add_paypal_correlation_id_to_payments.php"
+					],
+					[
+						"payments",
+						"application/models/DbTable/Payments.php"
+					],
+					[
+						"util",
+						"application/library/Util.php"
+					],
+					[
+						"appli",
+						"application/configs/application.ini"
+					],
+					[
+						"admined",
+						"application/controllers/AdminEditorController.php"
+					],
+					[
+						"payment",
+						"application/models/DbTable/Payments.php"
+					],
+					[
+						"user",
+						"application/models/User.php"
+					],
+					[
+						"mytes",
+						"application/controllers/MytestController.php"
+					],
+					[
+						"feat",
+						"application/library/EnabledFeatures.php"
+					],
+					[
+						"transc",
+						"application/controllers/TranscriberController.php"
+					],
+					[
+						"dbtablepaym",
+						"application/models/DbTable/Payments.php"
+					],
+					[
+						"transcr",
+						"application/models/Transcriber.php"
+					],
+					[
+						"admincontr",
+						"application/controllers/AdminEditorController.php"
+					],
+					[
+						"adminco",
+						"application/controllers/AdminsController.php"
+					],
+					[
+						"dbtablepayments",
+						"application/models/DbTable/Payments.php"
+					],
+					[
+						"vendor/bin/phinx",
+						"vendor/robmorgan/phinx/src/Phinx/Db/Adapter/MysqlAdapter.php"
+					],
+					[
+						"phinx",
+						"vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php"
+					],
+					[
+						"completed_to",
+						"migrations/20140501225723_add_completed_to_payments.php"
+					],
+					[
+						"app",
+						"application/configs/application.ini"
+					],
+					[
+						"payme",
+						"application/controllers/PaymentController.php"
+					],
+					[
+						"log/mai",
+						"var/log/mail.log"
+					],
+					[
+						"admintransc",
+						"application/modules/admin/controllers/TranscribersController.php"
+					],
+					[
+						"paymentc",
+						"application/controllers/PaymentController.php"
+					],
+					[
+						"order",
+						"application/models/DbTable/Orders.php"
+					],
+					[
+						"transcriercon",
+						"application/controllers/TranscriberController.php"
+					],
+					[
+						"editor",
+						"application/views/scripts/transcriber/editor.phtml"
+					],
+					[
+						"clientc",
+						"application/controllers/ClientController.php"
+					],
+					[
+						"editor.p",
+						"application/views/scripts/transcriber/editor.phtml"
+					],
+					[
+						"_pages_edit",
+						"application/views/scripts/_pages/_editorMain.phtml"
+					],
+					[
+						"editor.ph",
+						"application/views/scripts/transcriber/editor.phtml"
+					],
+					[
+						"editorfilesplayer",
+						"public/editor/files/player.js"
+					],
+					[
+						"getnotescont",
+						"library/GetNotes/Controller/Action.php"
+					],
+					[
+						"trans",
+						"application/models/Transcriber.php"
+					],
+					[
+						"mytest",
+						"application/controllers/MytestController.php"
+					],
+					[
+						"transcri",
+						"application/models/Transcriber.php"
+					],
+					[
+						"admin",
+						"application/controllers/AdminEditorController.php"
+					],
+					[
+						"create_payments",
+						"migrations/20140409235618_create_payments_table.php"
+					],
+					[
+						"getnotesact",
+						"library/GetNotes/Controller/Action.php"
+					],
+					[
+						"getnotescontroller",
+						"library/GetNotes/Controller/Action.php"
+					],
+					[
+						"transcriberco",
+						"application/controllers/TranscriberController.php"
+					],
+					[
+						"transcriberget",
+						"application/views/scripts/transcriber/get.phtml"
+					],
+					[
+						"paymnts",
+						"application/models/DbTable/Payments.php"
+					],
+					[
+						"paypal",
+						"application/library/Paypal.php"
+					],
+					[
+						".md",
+						"development_setup.md"
+					],
+					[
+						"36",
+						"node_modules/lame/deps/mpg123/src/libmpg123/dct36_3dnow.S"
+					],
+					[
+						".gitig",
+						".gitignore"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"twi",
+						"application/library/Twilio.php"
+					],
+					[
+						"hellp",
+						"application/library/HelloSign.php"
+					],
+					[
+						"hello",
+						"application/library/HelloSign.php"
+					],
+					[
+						"hellos",
+						"application/library/HelloSign.php"
+					],
+					[
+						"twili",
+						"application/library/Twilio.php"
+					],
+					[
+						"applica",
+						"application/configs/application.ini"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"jobs-",
+						"application/views/scripts/admin-editor/jobs-pending.phtml"
+					],
+					[
+						"adminuser",
+						"application/modules/admin/views/scripts/users/get.phtml"
+					],
+					[
+						"transcrberm",
+						"application/models/TranscriberMapper.php"
+					],
+					[
+						"usermapper",
+						"application/models/UserMapper.php"
+					],
+					[
+						"transcriber",
+						"application/modules/admin/controllers/TranscribersController.php"
+					],
+					[
+						"dbtableorders",
+						"application/models/DbTable/Orders.php"
+					],
+					[
+						"adminc",
+						"application/controllers/AdminsController.php"
+					],
+					[
+						"comments",
+						"migrations/20140320031336_add_graded_to_order_status_id_comments.php"
+					],
+					[
+						"createpayments",
+						"migrations/20140409235618_create_payments_table.php"
+					],
+					[
+						".git",
+						".gitignore"
+					],
+					[
+						"user.",
+						"application/models/User.php"
+					],
+					[
+						"orders.",
+						"application/models/DbTable/Orders.php"
+					],
+					[
+						"orderslist",
+						"application/views/scripts/_lists/_ordersList.phtml"
+					],
+					[
+						"transcriber/",
+						"application/views/scripts/transcriber/index.phtml"
+					],
+					[
+						"models/tra",
+						"application/models/Transcriber.php"
+					],
+					[
+						"test",
+						"application/controllers/TestsController.php"
+					],
+					[
+						"applicat",
+						"application/configs/application.ini"
+					],
+					[
+						"getnotes/mail",
+						"library/GetNotes/Mailer.php"
+					],
+					[
+						"models/inv",
+						"application/models/Invitation.php"
+					],
+					[
+						"mailer/inv",
+						"application/views/scripts/mailer/transcriber-invite.html.phtml"
+					],
+					[
+						"mailer/new",
+						"application/views/scripts/mailer/new-transcriber.html.phtml"
+					],
+					[
+						"transcribersco",
+						"modules/admin/controllers/TranscribersController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 268.0,
+			"status_bar_visible": true,
+			"window_id": 71,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

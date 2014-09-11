@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Copy Block",
+		"JSHint",
+		"Markdown Preview",
+		"Package Control",
+		"Sass",
+		"SCSS"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/SideBarEnhancements"
+	]
+}

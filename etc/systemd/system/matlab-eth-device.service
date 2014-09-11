@@ -1,0 +1,15 @@
+[Unit]
+Description=Create a virtual ethernet device so MATLAB can authorize device
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/bin/ip tuntap add dev eth0 mode tap
+ExecStart=/usr/bin/ip link ls dev eth0
+ExecStart=/usr/bin/ip link set down dev eth0
+ExecStart=/usr/bin/ip link set dev eth0 address e0:b9:a5:d0:bf:74
+ExecStart=/usr/bin/ip link set up dev eth0
+ExecStop=/usr/bin/ip link set down dev eth0
+
+[Install]
+WantedBy=multi-user.target

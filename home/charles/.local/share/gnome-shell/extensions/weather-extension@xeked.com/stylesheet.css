@@ -1,0 +1,94 @@
+.weather-current-summarybox {
+    padding-top: 0px;
+}
+
+.weather-current-summary {
+    font-size: 44px;
+}
+
+.weather-current-databox {
+    padding: 0px 15px 0px 30px;
+}
+
+.weather-current-icon {
+    padding: 0px 30px;
+}
+
+.weather-current-iconbox {
+    padding-right: 20px;
+}
+
+.weather-current-infobox {
+    padding-top: 3px;
+}
+
+.weather-icon {
+    padding-right: 5px;
+}
+
+.weather-icon-rtl {
+    padding-left: 5px;
+}
+
+.weather-current-databox-captions {
+    text-align: right;
+    padding-right: 10px;
+    padding-left: 20px;
+    color: #999999;
+}
+
+.forecast {
+  width: 0;
+}
+
+.weather-forecasts {
+  -st-hfade-offset: 60px;
+}
+
+.weather-forecast-box {
+  padding: 0 20px;
+  min-width: 140px;
+}
+
+.weather-forecast-box:first-child {
+  padding-left: 50px;
+}
+
+.weather-forecast-box:last-child {
+  padding-right: 50px;
+}
+
+.weather-forecast-iconminmax {
+}
+
+.weather-forecast-icon {
+  padding-right: 10px;
+}
+
+.weather-forecast-day {
+  color: #999999;
+  font-size: 90%;
+  text-align: center;
+}
+
+.weather-forecast-summary {
+  text-align: center;
+}
+
+.attribution {
+  padding: 0 25px;
+}
+
+.weather-sunrise-icon {
+    padding-right: 5px;
+}
+
+.weather-sunset-icon {
+    padding-left: 15px;
+    padding-right: 5px;
+}
+
+.weather-build-icon {
+    padding-left: 15px;
+    padding-right: 5px;
+}

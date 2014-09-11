@@ -1,0 +1,8 @@
+[user]
+	email = charles@rabidaudio.com
+[core]
+    editor = nano
+[color]
+    diff = auto
+[push]
+	default = simple

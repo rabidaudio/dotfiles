@@ -1,0 +1,554 @@
+<gconfentryfile>
+  <entrylist base="/">
+    <entry>
+      <key>/apps/blueman/AppletPlugin</key>
+      <value>
+        <list type="string">
+        </list>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/plugins/DiscvManager/time</key>
+      <value>
+        <int>60</int>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/plugins/Headset/command</key>
+      <value>
+        <string></string>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/plugins/KillSwitch/checked</key>
+      <value>
+        <bool>false</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/plugins/PulseAudio/checked</key>
+      <value>
+        <bool>true</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/plugins/PulseAudio/make_default_sink</key>
+      <value>
+        <bool>true</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/plugins/PulseAudio/move_streams</key>
+      <value>
+        <bool>true</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/plugins/RecentConns/max_items</key>
+      <value>
+        <int>6</int>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/plugins/RecentConns/recent_connections</key>
+      <value>
+        <string></string>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/plugins/SerialManager/script</key>
+      <value>
+        <string></string>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/plugins/StatusIcon/icon</key>
+      <value>
+        <string>blueman</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/transfer/ftp_allow_write</key>
+      <value>
+        <bool>false</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/transfer/ftp_enabled</key>
+      <value>
+        <bool>true</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/transfer/opp_enabled</key>
+      <value>
+        <bool>true</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/blueman/transfer/shared_path</key>
+      <value>
+        <string>/home/charles</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/gksu/disable-grab</key>
+      <schema_key>/schemas/apps/gksu/disable-grab</schema_key>
+      <value>
+        <bool>false</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/gksu/display-no-pass-info</key>
+      <schema_key>/schemas/apps/gksu/display-no-pass-info</schema_key>
+      <value>
+        <bool>true</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/gksu/force-grab</key>
+      <schema_key>/schemas/apps/gksu/force-grab</schema_key>
+      <value>
+        <bool>false</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/gksu/prompt</key>
+      <schema_key>/schemas/apps/gksu/prompt</schema_key>
+      <value>
+        <bool>false</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/gksu/save-keyring</key>
+      <schema_key>/schemas/apps/gksu/save-keyring</schema_key>
+      <value>
+        <string>session</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/gksu/save-to-keyring</key>
+      <schema_key>/schemas/apps/gksu/save-to-keyring</schema_key>
+      <value>
+        <bool>true</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/apps/gksu/sudo-mode</key>
+      <schema_key>/schemas/apps/gksu/sudo-mode</schema_key>
+      <value>
+        <bool>true</bool>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/apps/gksu/disable-grab</key>
+      <value>
+        <schema>
+          <type>bool</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <bool>false</bool>
+              </value>
+            </default_value>
+            <short>Disable keyboard and mouse grab</short>
+            <long>
+	Whether the keyboard and mouse grabbing should be turned
+	off. This will make it possible for other X applications to
+	listen to keyboard input events, thus making it not possible
+	to shield from malicious applications which may be running.
+	</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/apps/gksu/display-no-pass-info</key>
+      <value>
+        <schema>
+          <type>bool</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <bool>true</bool>
+              </value>
+            </default_value>
+            <short>Display information message when no password is needed</short>
+            <long>
+	This option determines whether a message dialog will be displayed
+	informing the user that the program is being run without the need
+	of a password being asked for some reason.
+	</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/apps/gksu/force-grab</key>
+      <value>
+        <schema>
+          <type>bool</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <bool>false</bool>
+              </value>
+            </default_value>
+            <short>Force keyboard and mouse grab</short>
+            <long>
+	Grab keyboard and mouse even if -g has been passed as argument
+	on the command line.
+	</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/apps/gksu/prompt</key>
+      <value>
+        <schema>
+          <type>bool</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <bool>false</bool>
+              </value>
+            </default_value>
+            <short>Prompt for grabbing</short>
+            <long>
+	This option will make gksu prompt the user if he wants to have
+	the screen grabbed before entering the password. Notice that this
+	only has an effect if force-grab is disabled.
+	</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/apps/gksu/save-keyring</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>session</string>
+              </value>
+            </default_value>
+            <short>Keyring to which passwords will be saved</short>
+            <long>
+	The name of the keyring gksu should use. Usual values are &quot;session&quot;,
+	which saves the password for the session, and &quot;default&quot;, which saves the
+	password with no timeout.
+	</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/apps/gksu/save-to-keyring</key>
+      <value>
+        <schema>
+          <type>bool</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <bool>true</bool>
+              </value>
+            </default_value>
+            <short>Save password to gnome-keyring</short>
+            <long>
+	gksu can save the password you type to the gnome-keyring so you&apos;ll
+	not be asked everytime
+	</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/apps/gksu/sudo-mode</key>
+      <value>
+        <schema>
+          <type>bool</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <bool>false</bool>
+              </value>
+            </default_value>
+            <short>Sudo mode</short>
+            <long>
+	Whether sudo should be the default backend method. This method
+        is otherwise accessed though the -S switch or by running &apos;gksudo&apos;
+        instead of &apos;gksu&apos;.
+	</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/system/gstreamer/0.10/default/audiosink</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>autoaudiosink</string>
+              </value>
+            </default_value>
+            <short>default GStreamer audiosink</short>
+            <long>GStreamer can play audio using any number of output elements.  Some possible choices are osssink, esdsink and alsasink.  The audiosink can be a partial pipeline instead of just one element.</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/system/gstreamer/0.10/default/audiosink_description</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>Default</string>
+              </value>
+            </default_value>
+            <short>description for default GStreamer audiosink</short>
+            <long>Describes the selected output element.</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/system/gstreamer/0.10/default/audiosrc</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>alsasrc</string>
+              </value>
+            </default_value>
+            <short>default GStreamer audio source</short>
+            <long>GStreamer can record audio using any number of input elements.  Some possible choices are osssrc, esdsrc and alsasrc.  The audio source can be a partial pipeline instead of just one element.</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/system/gstreamer/0.10/default/audiosrc_description</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>Default</string>
+              </value>
+            </default_value>
+            <short>description for default GStreamer audiosrc</short>
+            <long>Describes the selected input element.</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/system/gstreamer/0.10/default/chataudiosink</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>autoaudiosink</string>
+              </value>
+            </default_value>
+            <short>GStreamer audiosink for Audio/Video Conferencing</short>
+            <long>GStreamer can play audio using any number of output elements.  Some possible choices are osssink, esdsink and alsasink.  The audiosink can be a partial pipeline instead of just one element.</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/system/gstreamer/0.10/default/chataudiosink_description</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>Default</string>
+              </value>
+            </default_value>
+            <short>description for GStreamer audiosink for Audio/Video Conferencing</short>
+            <long>Describes the selected output element for Audio/Video Conferencing.</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/system/gstreamer/0.10/default/musicaudiosink</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>autoaudiosink</string>
+              </value>
+            </default_value>
+            <short>GStreamer audiosink for Music and Movies</short>
+            <long>GStreamer can play audio using any number of output elements.  Some possible choices are osssink, esdsink and alsasink.  The audiosink can be a partial pipeline instead of just one element.</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/system/gstreamer/0.10/default/musicaudiosink_description</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>Default</string>
+              </value>
+            </default_value>
+            <short>description for GStreamer audiosink for Music and Movies</short>
+            <long>Describes the selected output element for Music and Movies.</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/system/gstreamer/0.10/default/videosink</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>autovideosink</string>
+              </value>
+            </default_value>
+            <short>default GStreamer videosink</short>
+            <long>GStreamer can play video using any number of output elements.  Some possible choices are xvimagesink, ximagesink, sdlvideosink and aasink.  The videosink can be a partial pipeline instead of just one element.</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/system/gstreamer/0.10/default/videosrc</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>v4l2src</string>
+              </value>
+            </default_value>
+            <short>default GStreamer video source</short>
+            <long>GStreamer can record video from any number of input elements.  Some possible choices are v4lsrc and videotestsrc. The video source can be a partial pipeline instead of just one element.</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/schemas/system/gstreamer/0.10/default/visualization</key>
+      <value>
+        <schema>
+          <type>string</type>
+          <locale name="C">
+            <default_value>
+              <value>
+                <string>goom</string>
+              </value>
+            </default_value>
+            <short>default GStreamer visualization plugin</short>
+            <long>GStreamer can put visualization plugins in a pipeline to transform audio stream in video frames. Default is goom but more visualization plugins will be ported soon. The visualization plugin can be a partial pipeline instead of just one element.</long>
+          </locale>
+        </schema>
+      </value>
+    </entry>
+    <entry>
+      <key>/system/gstreamer/0.10/default/audiosink</key>
+      <schema_key>/schemas/system/gstreamer/0.10/default/audiosink</schema_key>
+      <value>
+        <string>autoaudiosink</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/system/gstreamer/0.10/default/audiosink_description</key>
+      <schema_key>/schemas/system/gstreamer/0.10/default/audiosink_description</schema_key>
+      <value>
+        <string>Default</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/system/gstreamer/0.10/default/audiosrc</key>
+      <schema_key>/schemas/system/gstreamer/0.10/default/audiosrc</schema_key>
+      <value>
+        <string>alsasrc</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/system/gstreamer/0.10/default/audiosrc_description</key>
+      <schema_key>/schemas/system/gstreamer/0.10/default/audiosrc_description</schema_key>
+      <value>
+        <string>Default</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/system/gstreamer/0.10/default/chataudiosink</key>
+      <schema_key>/schemas/system/gstreamer/0.10/default/chataudiosink</schema_key>
+      <value>
+        <string>autoaudiosink</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/system/gstreamer/0.10/default/chataudiosink_description</key>
+      <schema_key>/schemas/system/gstreamer/0.10/default/chataudiosink_description</schema_key>
+      <value>
+        <string>Default</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/system/gstreamer/0.10/default/musicaudiosink</key>
+      <schema_key>/schemas/system/gstreamer/0.10/default/musicaudiosink</schema_key>
+      <value>
+        <string>autoaudiosink</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/system/gstreamer/0.10/default/musicaudiosink_description</key>
+      <schema_key>/schemas/system/gstreamer/0.10/default/musicaudiosink_description</schema_key>
+      <value>
+        <string>Default</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/system/gstreamer/0.10/default/videosink</key>
+      <schema_key>/schemas/system/gstreamer/0.10/default/videosink</schema_key>
+      <value>
+        <string>autovideosink</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/system/gstreamer/0.10/default/videosrc</key>
+      <schema_key>/schemas/system/gstreamer/0.10/default/videosrc</schema_key>
+      <value>
+        <string>v4l2src</string>
+      </value>
+    </entry>
+    <entry>
+      <key>/system/gstreamer/0.10/default/visualization</key>
+      <schema_key>/schemas/system/gstreamer/0.10/default/visualization</schema_key>
+      <value>
+        <string>goom</string>
+      </value>
+    </entry>
+  </entrylist>
+</gconfentryfile>

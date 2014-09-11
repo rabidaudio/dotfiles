@@ -1,0 +1,94 @@
+/***********
+ * Buttons *
+ ***********/
+ 
+.button {
+    -GtkWidget-focus-padding: 1;
+    -GtkWidget-focus-line-width: 0;
+
+    padding: 3px 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: @borders;
+    border-radius: 4;
+    background-image: linear-gradient(to bottom,
+                                  @button_gradient_color_a,
+                                  @button_gradient_color_b
+                                  );
+    color: @text_color;
+}
+
+
+.button:hover {
+    border-color: @hover_borders;
+    background-image: linear-gradient(to bottom,
+                                  @button_hover_gradient_color_a,
+                                  @button_hover_gradient_color_b
+                                  );
+}
+
+.button:active {
+    border-color: @active_borders;
+    background-image: linear-gradient(to bottom,
+                                  @button_active_gradient_color_b,
+                                  @button_active_gradient_color_a
+                                  );
+    color: @active_text_color;
+}
+
+/* Separator */
+.button .separator,
+.button.separator {
+    border-color: @borders;
+}
+
+.button .separator:insensitive,
+.button.separator:insensitive {
+    border-color: @insensitive_borders;
+}
+
+.button:focus,
+.button:active:hover,
+.button:hover:focus,
+.button:active:focus,
+.button:active:hover:focus {
+    border-color: @active_borders;
+}
+
+
+/* Insensitive Button */
+.button:insensitive {
+    border-color: @insensitive_borders;
+    background-color: @insensitive_bg_color;
+    background-image: none;
+}
+
+.button:active:insensitive {
+    border-color: @insensitive_borders;
+    background-color: @insensitive_bg_color;
+    background-image: none;
+}
+
+/* Default Button */
+.button.default {
+    border-color: @selected_bg_color;
+    background-color: shade(@selected_bg_color, 1.08);
+    color: @text_color;
+}
+
+.button.default:hover {
+    border-color: shade(@selected_bg_color, 1.1);
+    background-color: @selected_bg_color;
+    color: @hover_text_color;
+}
+
+.button.default:active {
+    border-color: @selected_bg_color;
+    background-color: shade(@selected_bg_color, 0.95);
+    color: @active_text_color;
+}
+
+.button.default:active:hover {
+    border-color: shade(@selected_bg_color, 1.2);
+    background-color: shade(@selected_bg_color, 1.05);
+}

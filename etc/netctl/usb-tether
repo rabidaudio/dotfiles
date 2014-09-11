@@ -1,0 +1,4 @@
+Description='A basic dhcp Android tethering'
+Interface=enp3s0u1
+Connection=ethernet
+IP=dhcp

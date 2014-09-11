@@ -1,0 +1,56 @@
+/****************
+ * Progressbars *
+ ****************/
+ 
+GtkProgressBar {
+    padding: 0;
+    border-width: 1px;
+    border-radius: 4px;
+}
+
+.progressbar,
+.progressbar row,
+.progressbar row:hover,
+.progressbar row:selected,
+.progressbar row:selected:focus {
+    border-width: 1px;
+    border-style: solid;
+    border-color: shade(@selected_bg_color, 0.8);
+    background-image: linear-gradient(to bottom,
+                                      @progressbar_bg_color_a,
+                                      @progressbar_bg_color_b
+                                      );
+}
+
+.progressbar.vertical {
+    border-width: 1px;
+    border-style: solid;
+    border-color: shade(@selected_bg_color, 0.8);
+    background-image: linear-gradient(to bottom,
+                                      @progressbar_bg_color_a,
+                                      @progressbar_bg_color_b
+                                      );
+}
+
+
+/***********
+ * Troughs *
+ ***********/
+.trough,
+.trough row,
+.trough row:hover,
+.trough row:selected,
+.trough row:selected:focus {
+    border-width: 1px;
+    border-style: solid;
+    border-color: @borders;
+    background-image: linear-gradient(to bottom,
+                                      @trough_bg_color_a,
+                                      @trough_bg_color_b
+                                      );
+}
+
+.trough.vertical {
+    background-color: shade(@bg_color, 1.08);
+    background-image: none;
+}

@@ -1,0 +1,7 @@
+/*************
+ * statusbar *
+ *************/
+GtkStatusbar {
+    padding: 0px;
+    color: @fg_color;
+}

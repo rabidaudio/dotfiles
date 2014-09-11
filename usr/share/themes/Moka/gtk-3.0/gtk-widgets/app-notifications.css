@@ -1,0 +1,13 @@
+/*********************
+ * app notifications *
+ *********************/
+.app-notification {
+    border-style: solid;
+    border-color: shade(@base_color, 0.8);
+    border-width: 0 1px 1px 1px;
+    border-radius: 0 0 2px 2px;
+    padding: 8px;
+    background-color: @base_color;
+    background-image: none;
+    color: @text_color;
+}

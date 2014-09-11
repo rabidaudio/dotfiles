@@ -1,0 +1,9 @@
+/*********
+ * Image *
+ *********/
+ 
+GtkImage,
+GtkImage:active,
+GtkImage:insensitive {
+    background-color: transparent;
+}

@@ -1,0 +1,4 @@
+[
+    {"keys": ["super+shift+c"], "command": "copy_block"},
+    {"keys": ["super+shift+x"], "command": "cut_block"}
+]

@@ -1,0 +1,151 @@
+/* Copyright 2013 Sam Hewitt.
+*
+* This file is part of the Moka GTK theme.
+*
+* The Moka GTK theme is free software: you can redistribute it
+* and/or modify it under the terms of the GNU General Public License as
+* published by the Free Software Foundation, either version 3 of the
+* License, or (at your option) any later version.
+*
+* The Moka GTK theme is distributed in the hope that it will be
+* useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+* Public License for more details.
+*
+* You should have received a copy of the GNU General Public License along
+* with the Moka GTK theme. If not, see http://www.gnu.org/licenses/.
+*/
+
+
+/*************
+ * GtkSwitch *
+ *************/
+
+GtkSwitch,
+GtkSwitch .menuitem,
+GtkSwitch .menuitem:hover {
+    -GtkSwitch-slider-width: 24px;
+    -GtkSwitch-slider-height: 24px;
+    color: transparent;
+    padding: 6px;
+}
+
+GtkSwitch:active,
+GtkSwitch:active .menuitem,
+GtkSwitch:active .menuitem:hover {
+    color: transparent;
+    padding: 6px;
+}
+
+GtkSwitch,
+GtkSwitch:backdrop,
+GtkSwitch:active,
+GtkSwitch:active:backdrop,
+GtkSwitch:active:insensitive,
+GtkSwitch:insensitive,
+GtkSwitch:insensitive:backdrop,
+GtkSwitch .menuitem,
+GtkSwitch:hover .menuitem,
+GtkSwitch:backdrop .menuitem,
+GtkSwitch:active .menuitem,
+GtkSwitch:active:backdrop .menuitem,
+GtkSwitch:active:insensitive .menuitem,
+GtkSwitch:insensitive .menuitem,
+GtkSwitch:insensitive:backdrop .menuitem
+GtkSwitch .menuitem:hover,
+GtkSwitch:hover .menuitem:hover,
+GtkSwitch:backdrop .menuitem:hover,
+GtkSwitch:active .menuitem:hover,
+GtkSwitch:active:backdrop .menuitem:hover,
+GtkSwitch:active:insensitive .menuitem:hover,
+GtkSwitch:insensitive .menuitem:hover,
+GtkSwitch:insensitive:backdrop .menuitem:hover {
+    border: none;
+    background-color: transparent;
+    color: transparent;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+/**********
+ * Slider *
+ **********/
+
+
+GtkSwitch.slider,
+GtkSwitch.slider .menuitem,
+GtkSwitch.slider .menuitem:hover {
+    background-size: 24px 24px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color: transparent;
+    padding: 6px;
+}
+
+
+GtkSwitch.slider,
+GtkSwitch.slider:backdrop,
+GtkSwitch.slider:active,
+GtkSwitch.slider:active:backdrop,
+GtkSwitch.slider:active:insensitive,
+GtkSwitch.slider:insensitive,
+GtkSwitch.slider:insensitive:backdrop,
+GtkSwitch.slider .menuitem,
+GtkSwitch.slider:hover .menuitem,
+GtkSwitch.slider:backdrop .menuitem,
+GtkSwitch.slider:active .menuitem,
+GtkSwitch.slider:active:backdrop .menuitem,
+GtkSwitch.slider:active:insensitive .menuitem,
+GtkSwitch.slider:insensitive .menuitem,
+GtkSwitch.slider:insensitive:backdrop .menuitem
+GtkSwitch.slider .menuitem:hover,
+GtkSwitch.slider:hover .menuitem:hover,
+GtkSwitch.slider:backdrop .menuitem:hover,
+GtkSwitch.slider:active .menuitem:hover,
+GtkSwitch.slider:active:backdrop .menuitem:hover,
+GtkSwitch.slider:active:insensitive .menuitem:hover,
+GtkSwitch.slider:insensitive .menuitem:hover,
+GtkSwitch.slider:insensitive:backdrop .menuitem:hover {
+    border: none;
+    background-color: transparent;
+    color: transparent;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+GtkSwitch.trough,
+GtkSwitch.trough .menuitem,
+GtkSwitch.trough .menuitem:hover {
+    background-size: 48px 24px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color: transparent;
+}
+
+GtkSwitch.trough,
+GtkSwitch.trough:backdrop,
+GtkSwitch.trough:active,
+GtkSwitch.trough:active:backdrop,
+GtkSwitch.trough:active:insensitive,
+GtkSwitch.trough:insensitive,
+GtkSwitch.trough:insensitive:backdrop,
+GtkSwitch.trough .menuitem,
+GtkSwitch.trough:backdrop .menuitem,
+GtkSwitch.trough:active .menuitem,
+GtkSwitch.trough:active:backdrop .menuitem,
+GtkSwitch.trough:active:insensitive .menuitem,
+GtkSwitch.trough:insensitive .menuitem,
+GtkSwitch.trough:insensitive:backdrop .menuitem
+GtkSwitch.trough .menuitem:hover,
+GtkSwitch.trough:backdrop .menuitem:hover,
+GtkSwitch.trough:active .menuitem:hover,
+GtkSwitch.trough:active:backdrop .menuitem:hover,
+GtkSwitch.trough:active:insensitive .menuitem:hover,
+GtkSwitch.trough:insensitive .menuitem:hover,
+GtkSwitch.trough:insensitive:backdrop .menuitem:hover {
+    border: none;
+    background-color: transparent;
+    color: transparent;
+    box-shadow: none;
+    text-shadow: none;
+}

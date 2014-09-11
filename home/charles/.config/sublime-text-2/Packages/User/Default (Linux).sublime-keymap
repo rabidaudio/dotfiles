@@ -1,0 +1,15 @@
+[
+    { "keys": ["ctrl+shift+l"], "command": "expand_selection", "args": {"to": "line"} },
+    { "keys": ["ctrl+alt+left"], "command": "move", "args": {"by": "words", "forward": false} },
+    { "keys": ["ctrl+alt+right"], "command": "move", "args": {"by": "word_ends", "forward": true} },
+    { "keys": ["ctrl+t"], "command": "new_file" },
+    { "keys": ["ctrl+alt+l"], "command": "jslint" },
+    {
+    "keys": ["ctrl+alt+s"],
+    "command": "toggle_setting",
+    "args":
+    {
+        "setting": "spell_check"
+    }
+}
+]

@@ -1,0 +1,66 @@
+/**************
+ * Scrollbars *
+ **************/
+ 
+.scrollbar {
+    border-width: 1px;
+    border-style: solid;
+    padding: 0;
+}
+
+.scrollbars-junction,
+.scrollbar.trough {
+    border-width: 0;
+    border-radius: 0;
+    background-color: @bg_color;
+    background-image: none;
+}
+
+.scrollbar.button,
+.scrollbar.button:active,
+.scrollbar.button:active:hover {
+    border-width: 0;
+    border-radius: 0;
+    background-color: transparent;
+    background-image: none;
+    color: shade(@bg_color, 0.6);
+}
+
+.scrollbar.slider {
+    border-width: 1px;
+    border-color: @borders;
+    border-radius: 0;
+    background-color: shade(@bg_color, 0.9);
+}
+
+.scrollbar.slider:hover,
+.scrollbar.slider.vertical:hover {
+    border-color: shade(@borders, 1.1);
+    background-color: shade(@bg_color, 0.8);
+}
+
+.scrollbar.slider:active,
+.scrollbar.slider.vertical:active {
+    border-color: shade(@selected_bg_color, 0.9);
+    background-color: @selected_bg_color;
+}
+
+/* Overlay scrollbar */
+OsThumb {
+    color: shade(@selected_bg_color, 0.9);
+}
+
+OsThumb:selected,
+OsScrollbar:selected {
+    background-color: @selected_bg_color;
+}
+
+OsThumb:active,
+OsScrollbar:active {
+    background-color: @selected_bg_color;
+}
+
+OsThumb:insensitive,
+OsScrollbar:insensitive {
+    background-color: shade(@bg_color, 0.9);
+}

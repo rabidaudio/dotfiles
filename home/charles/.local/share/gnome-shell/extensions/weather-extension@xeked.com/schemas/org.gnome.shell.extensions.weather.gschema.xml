@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extension-weather">
+  <enum id="org.gnome.shell.extensions.weather.position">
+    <value value="0" nick="center"/>
+    <value value="1" nick="right"/>
+    <value value="2" nick="left"/>
+  </enum>
+  <enum id="org.gnome.shell.extensions.weather.wind-dir-indicators">
+    <value value="0" nick="arrows"/>
+    <value value="1" nick="letters"/>
+  </enum>
+  <schema path="/org/gnome/shell/extensions/weather/" id="org.gnome.shell.extensions.weather">
+    <key type="av" name="city">
+      <default>[]</default>
+      <summary>City to be displayed</summary>
+    </key>
+    <key type="i" name="actual-city">
+      <default>0</default>
+      <summary>Actual City</summary>
+    </key>
+    <key type="b" name="use-symbolic-icons">
+      <default>true</default>
+      <summary>Symbolic Icons</summary>
+    </key>
+    <key type="b" name="show-text-in-panel">
+      <default>true</default>
+      <summary>Temperature in Panel</summary>
+    </key>
+    <key type="b" name="show-comment-in-panel">
+      <default>false</default>
+      <summary>Conditions in Panel</summary>
+    </key>
+    <key name="position-in-panel" enum="org.gnome.shell.extensions.weather.position">
+      <default>'center'</default>
+      <summary>Position in Panel</summary>
+    </key>
+    <key type="b" name="wind-direction">
+      <default>true</default>
+      <summary>Wind Direction by Arrows</summary>
+      <description>Choose whether to display wind direction through arrows or letters.</description>
+    </key>
+    <key type="b" name="debug-extension">
+      <default>false</default>
+      <summary>Debug the extension</summary>
+    </key>
+  </schema>
+</schemalist>

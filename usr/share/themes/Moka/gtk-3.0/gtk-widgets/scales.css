@@ -1,0 +1,71 @@
+/**********
+ * Scales *
+ **********/
+
+.scale {
+    -GtkScale-slider-length: 16;
+    -GtkRange-slider-width: 16;
+    -GtkRange-trough-border: 0;
+}
+
+.scale.slider,
+.scale.slider:hover,
+.scale.slider:insensitive,
+.scale.slider:backdrop,
+.scale.slider:insensitive:backdrop {
+    border-radius: 0;
+    border-style: none;
+    background-color: transparent;
+
+    /* background-image in -assets variant */
+}
+
+/* Positive color of horizontal scales */
+.menubar .menuitem .scale.highlight.left,
+.scale.highlight.left {
+    border-color: shade(@selected_bg_color, 0.9);
+    background-color: @selected_bg_color;
+    background-image: none;
+}
+
+/* Positive color of vertical scales */
+.menubar .menuitem.scale.highlight.bottom,
+.scale.vertical.highlight.bottom {
+    border-color: shade(@selected_bg_color, 0.9);
+    background-color: @selected_bg_color;
+    background-image: none;
+}
+
+/* Insensitive color of scales */
+.scale.trough:insensitive,
+.scale.highlight.left:insensitive {
+    border-color: @insensitive_borders;
+    background-color: @insensitive_bg_color;
+    background-image: none;
+}
+
+.scale.trough {
+    margin: 6px 0;
+}
+
+.scale.trough.vertical {
+    margin: 0 6px;
+}
+
+.scale.trough,
+.scale.trough.highlight,
+.scale.trough.vertical,
+.scale.trough:backdrop {
+    border-width: 1px;
+    border-image: none;
+    border-style: solid;
+}
+
+.scale.trough,
+.scale.trough.vertical {
+    border-color: @borders;
+}
+
+.scale.progressbar {
+    background-color: @selected_bg_color;
+}
