@@ -1,8 +1,35 @@
 {
 	"folder_history":
 	[
-		"/home/charles/bands",
+		"/home/charles/Projects/grunt-text-statistics",
+		"/home/charles/Projects/simple-web-tracker",
+		"/home/charles/Projects/rabid.audio",
+		"/home/charles/.config/sublime-text-2/Packages/Jekyll/Syntaxes",
+		"/home/charles",
+		"/home/charles/Projects/radio-server",
+		"/home/charles/Projects/x",
+		"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage",
+		"/home/charles/Projects/static-site-comments",
+		"/home/charles/Projects/static-site-comments/akismet.js",
+		"/home/charles/Projects/static-site-comments/akismet.js/bin",
+		"/home/charles/Projects/javascript-utils",
+		"/home/charles/Projects/natural_dates",
+		"/home/charles/Dropbox/Projects/natural_dates",
+		"/home/charles/Dropbox/Projects/javascript_utils",
+		"/home/charles/Dropbox/Projects/javascript_utils/natural_dates",
+		"/home/charles/Dropbox/Projects/blog2/rabid.audio",
+		"/home/charles/Dropbox/Projects/blog2/rabidaudio_blog_2",
+		"/home/charles/recursive_tiktaktoe",
+		"/home/charles/clubalert.me",
 		"/home/charles/Dropbox/Projects/Utterson",
+		"/home/charles/Dropbox/Projects/random-image",
+		"/home/charles/kaiseki",
+		"/home/charles/bower-parse",
+		"/home/charles/node-parse-api",
+		"/home/charles/js-calendar-proxy",
+		"/home/charles/code_for_atlanta/clerydata/api1",
+		"/home/charles/clerydata/api1",
+		"/home/charles/bands",
 		"/home/charles/Dropbox/Projects/blog",
 		"/home/charles/Dropbox/Projects/truthiness/alchemyapi_node",
 		"/home/charles/dad",
@@ -10,7 +37,6 @@
 		"/home/charles/Dropbox/Projects/curiosa",
 		"/home/charles/Turbine27",
 		"/home/charles/YikHak",
-		"/home/charles",
 		"/home/charles/Dropbox/Projects/chrome-project-bundle-extension/src",
 		"/home/charles/code_for_atlanta/open_elections/core",
 		"/home/charles/mjpeg",
@@ -38,7 +64,7 @@
 		"/home/charles/voyeur",
 		"/home/charles/getnotes/bigbang/application"
 	],
-	"last_window_id": 73,
+	"last_window_id": 129,
 	"settings":
 	{
 		"new_window_height": 0.0,
@@ -49,493 +75,589 @@
 				"selected_items":
 				[
 					[
-						"last",
-						"Lastfm"
-					],
-					[
-						"ba",
-						"band_info"
-					],
-					[
-						"reverbna",
-						"reverbnation"
-					],
-					[
-						"band",
-						"band_info"
-					],
-					[
-						"st",
-						"state"
-					],
-					[
-						"Las",
-						"LastFM"
-					],
-					[
-						"new",
-						"new_result"
-					],
-					[
-						"res",
-						"result"
-					],
-					[
-						"re",
-						"require"
-					],
-					[
-						"api",
-						"api_key"
-					],
-					[
-						"opt",
-						"options"
-					],
-					[
-						"get_",
-						"get_query_option"
-					],
-					[
-						"get",
-						"get_query_option"
-					],
-					[
-						"LAST",
-						"LASTFM_SECRET"
-					],
-					[
-						"co",
-						"comments"
-					],
-					[
-						"bad",
-						"band_data"
-					],
-					[
-						"modu",
-						"module_function"
-					],
-					[
-						"art",
-						"artist_page"
-					],
-					[
-						"user",
-						"user_agent"
-					],
-					[
-						"sear",
-						"search_page"
-					],
-					[
-						"de",
-						"debug"
-					],
-					[
-						"D",
-						"Debug"
-					],
-					[
-						"aut",
-						"authorView"
-					],
-					[
-						"a",
-						"authors"
-					],
-					[
-						"ath",
-						"author"
-					],
-					[
-						"to",
-						"toJSON"
-					],
-					[
-						"ban",
-						"backbone-relational"
-					],
-					[
-						"highlight",
-						"highlightjs"
-					],
-					[
-						"req",
-						"require"
-					],
-					[
-						"ca",
-						"callback"
-					],
-					[
-						"esca",
-						"escapeURL"
-					],
-					[
-						"post",
-						"postsView"
-					],
-					[
-						"high",
-						"highlight"
-					],
-					[
-						"Handle",
-						"Handlebars"
-					],
-					[
-						"togg",
-						"toggleVisible"
-					],
-					[
-						"tem",
-						"template"
-					],
-					[
-						"rend",
-						"rendered"
-					],
-					[
-						"template",
-						"template_id"
-					],
-					[
-						"pat",
-						"pathToString"
-					],
-					[
-						"pr",
-						"properSort"
-					],
-					[
 						"pro",
-						"proper_path"
-					],
-					[
-						"mp",
-						"mp3_files"
-					],
-					[
-						"tra",
-						"track_name"
-					],
-					[
-						"alb",
-						"album_dir"
-					],
-					[
-						"ar",
-						"artist_dir"
-					],
-					[
-						"Id",
-						"ID3"
-					],
-					[
-						"has",
-						"hashRegex"
-					],
-					[
-						"conf",
-						"configName"
-					],
-					[
-						"email",
-						"emailRegex"
-					],
-					[
-						"en",
-						"enumOnOff"
-					],
-					[
-						"par",
-						"parseInt"
-					],
-					[
-						"nu",
-						"numberOfLikes"
-					],
-					[
-						"ap",
-						"api_prefix"
-					],
-					[
-						"se",
-						"sendResponse"
-					],
-					[
-						"w",
-						"window_id"
-					],
-					[
-						"ac",
-						"active_tab"
-					],
-					[
-						"windo",
-						"window_settings"
-					],
-					[
-						"mj",
-						"mjpegReqHandler"
-					],
-					[
-						"diff",
-						"diffpatch"
-					],
-					[
-						"diffch",
-						"diffchars"
-					],
-					[
-						"ed",
-						"editor_textarea"
-					],
-					[
-						"editor",
-						"editor-textarea"
-					],
-					[
-						"Strea",
-						"streamLength"
-					],
-					[
-						"stre",
-						"stream_length"
-					],
-					[
-						"onE",
-						"onErr"
-					],
-					[
-						"on",
-						"onReadable"
-					],
-					[
-						"time",
-						"time_skip"
-					],
-					[
-						"spea",
-						"speaker_options"
-					],
-					[
-						"set",
-						"_set_state"
-					],
-					[
-						"play",
-						"play_pause"
-					],
-					[
-						"gui",
-						"gui_menu_context"
-					],
-					[
-						"track",
-						"track_sort"
-					],
-					[
-						"key",
-						"keymap"
-					],
-					[
-						"ha",
-						"_handle_data"
-					],
-					[
-						"shou",
-						"should_not"
-					],
-					[
-						"random",
-						"random_string"
-					],
-					[
-						"Zend_",
-						"Zend_Exception"
-					],
-					[
-						"payment",
-						"payment_id"
-					],
-					[
-						"max",
-						"max_combined_requests"
-					],
-					[
-						"con",
-						"connection"
-					],
-					[
-						"el",
-						"elements"
-					],
-					[
-						"payme",
-						"paymentObj"
-					],
-					[
-						"cost_of_",
-						"cost_of_transcriber"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"setORder",
-						"setOrderChronologically"
-					],
-					[
-						"current",
-						"currentUser"
-					],
-					[
-						"rou",
-						"routing_number"
-					],
-					[
-						"Zend_Form",
-						"Zend_Form_Element_Hidden"
-					],
-					[
-						"with",
-						"withdraw-form"
-					],
-					[
-						"_send",
-						"_send400"
-					],
-					[
-						"curren",
-						"currentUser"
-					],
-					[
-						"line",
-						"linebreaks"
-					],
-					[
-						"lin",
-						"linebreaks"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"backg",
-						"background-color"
-					],
-					[
-						"bg_",
-						"bg_index"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"vide",
-						"video-embedded"
-					],
-					[
-						"prev",
-						"previous_context"
-					],
-					[
-						"pre",
-						"previous_context"
-					],
-					[
-						"arti",
-						"artists"
-					],
-					[
-						"ser",
-						"serialPort"
-					],
-					[
-						"ob",
-						"objRespond"
-					],
-					[
-						"gra",
-						"gravatar_url"
-					],
-					[
-						"transc",
-						"transcriber_id"
-					],
-					[
-						"transcr",
-						"transcriber_value"
-					],
-					[
-						"Appl",
-						"Application_Model_UserMapper"
-					],
-					[
-						"phon",
-						"phone_filter"
-					],
-					[
-						"onKe",
-						"onKeyF12"
-					],
-					[
-						"User",
-						"UserModel"
-					],
-					[
-						"mo",
-						"mongoose"
-					],
-					[
-						"mon",
-						"mongoose"
-					],
-					[
-						"albu",
-						"album_sort"
-					],
-					[
-						"libra",
-						"library_dir"
-					],
-					[
-						"library",
-						"library_file"
-					],
-					[
-						"proto",
 						"prototype"
 					],
 					[
-						"sera",
-						"serialPort"
+						"arg",
+						"arguments"
+					],
+					[
+						"XMLH",
+						"XMLHttpRequest"
+					],
+					[
+						"time",
+						"timeout	setTimeout function"
+					],
+					[
+						"XML",
+						"XMLHttpRequest"
+					],
+					[
+						"bod",
+						"bodyParser"
+					],
+					[
+						"get",
+						"getGeoIPInfo"
 					],
 					[
 						"c",
 						"console"
 					],
 					[
-						"fu",
-						"function"
+						"marg",
+						"margin-bottom"
 					],
 					[
-						"comma",
-						"command_buffer"
+						"mar",
+						"margin"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"att",
+						"attributes"
+					],
+					[
+						"ca",
+						"caption"
+					],
+					[
+						"class",
+						"classes"
+					],
+					[
+						"to",
+						"to_html"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"un",
+						"unless	unless … end"
+					],
+					[
+						"opt",
+						"options"
+					],
+					[
+						"so",
+						"source"
+					],
+					[
+						"max-",
+						"max-height"
+					],
+					[
+						"highlight",
+						"highlight_post"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"animate",
+						"animate_time"
+					],
+					[
+						"this",
+						"this_color"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"temp",
+						"template"
+					],
+					[
+						"config",
+						"configure_new_page"
+					],
+					[
+						"full",
+						"full_date_string"
+					],
+					[
+						"dra",
+						"drafts"
+					],
+					[
+						"unde",
+						"undefined"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"an",
+						"answers"
+					],
+					[
+						"in",
+						"info"
+					],
+					[
+						"rep",
+						"replace"
+					],
+					[
+						"fil",
+						"filter"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"col",
+						"colormap"
+					],
+					[
+						"confi",
+						"config"
+					],
+					[
+						"repl",
+						"replace"
+					],
+					[
+						"as",
+						"ask"
+					],
+					[
+						"read",
+						"readline"
+					],
+					[
+						"en",
+						"encoder"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"Comme",
+						"CommentEngine"
+					],
+					[
+						"akis",
+						"akismet_key"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"alb",
+						"album_scroll"
+					],
+					[
+						"home-c",
+						"home-content-box"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"al",
+						"albumset"
+					],
+					[
+						"Alb",
+						"AlbumArtElementCollection"
+					],
+					[
+						"el",
+						"elements"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					],
+					[
+						"de",
+						"deploy"
+					],
+					[
+						"dev",
+						"devdeploy"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"e",
+						"eup"
+					],
+					[
+						"on",
+						"onSwipe"
+					],
+					[
+						"t",
+						"touchend"
+					],
+					[
+						"gre",
+						"grey-color"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"g",
+						"grunt-contrib-uglify"
+					],
+					[
+						"lo",
+						"loadNpmTasks"
+					],
+					[
+						"dif",
+						"diff_min"
+					],
+					[
+						"d",
+						"diff_days"
+					],
+					[
+						"m",
+						"months"
+					],
+					[
+						"ro",
+						"round"
+					],
+					[
+						"diff",
+						"diff_days"
+					],
+					[
+						"diff_",
+						"diff_hours"
+					],
+					[
+						"s",
+						"suffix"
+					],
+					[
+						"ONE",
+						"ONE_DAY"
+					],
+					[
+						"ON",
+						"ONE_HOUR"
+					],
+					[
+						"wi",
+						"within_days"
+					],
+					[
+						"getM",
+						"getMinutes"
+					],
+					[
+						"getN",
+						"getNaturalTime"
+					],
+					[
+						"mi",
+						"minutes"
+					],
+					[
+						"plur",
+						"pluralize"
+					],
+					[
+						"da",
+						"day_minutes"
+					],
+					[
+						"p",
+						"push"
+					],
+					[
+						"r",
+						"round"
+					],
+					[
+						"roun",
+						"roundTime"
+					],
+					[
+						"getNat",
+						"getNaturalTime"
+					],
+					[
+						"nat",
+						"naturalDate"
+					],
+					[
+						"am",
+						"ampm"
+					],
+					[
+						"min",
+						"minute_diff"
+					],
+					[
+						"k",
+						"keyCode"
+					],
+					[
+						"ke",
+						"keyListeners"
+					],
+					[
+						"key",
+						"keyListeners"
+					],
+					[
+						"tem",
+						"template"
+					],
+					[
+						"dire",
+						"directories"
+					],
+					[
+						"grey-colo",
+						"grey-color-light"
+					],
+					[
+						"table",
+						"table-cell"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"direc",
+						"directory"
+					],
+					[
+						"ex",
+						"expand"
+					],
+					[
+						"fi",
+						"file"
+					],
+					[
+						"min-",
+						"min-width"
+					],
+					[
+						"ta",
+						"table-cell"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"paddin",
+						"padding"
+					],
+					[
+						"padding",
+						"padding-left"
+					],
+					[
+						"com",
+						"components"
+					],
+					[
+						"test",
+						"testbuild"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"rabid",
+						"rabidaudio"
+					],
+					[
+						"Page",
+						"PageModel"
+					],
+					[
+						"AL",
+						"AlertModel"
+					],
+					[
+						"USer",
+						"UserModel"
+					],
+					[
+						"Cl",
+						"ClubModel"
+					],
+					[
+						"User",
+						"UserPageView"
+					],
+					[
+						"Sin",
+						"SignupView"
+					],
+					[
+						"S",
+						"SigninView"
+					],
+					[
+						"Al",
+						"AlertView"
+					],
+					[
+						"Sig",
+						"Signin"
+					],
+					[
+						"tim",
+						"timeout	setTimeout function"
+					],
+					[
+						"user",
+						"users"
+					],
+					[
+						"sub",
+						"submit_event"
+					],
+					[
+						"Sign",
+						"signin"
+					],
+					[
+						"sign",
+						"signin"
+					],
+					[
+						"pass",
+						"passwordconfirm"
+					],
+					[
+						"new",
+						"new_user"
+					],
+					[
+						"l",
+						"loginSuccess"
+					],
+					[
+						"fun",
+						"function"
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 32.0,
+				"height": 192.0,
 				"selected_items":
 				[
+					[
+						"markd",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"z",
+						"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+					],
+					[
+						"convert",
+						"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+					],
+					[
+						"aaapacka",
+						"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+					],
+					[
+						"packagedev",
+						"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"new ",
+						"Jekyll: New draft"
+					],
+					[
+						"new",
+						"Jekyll: New draft"
+					],
+					[
+						"jek",
+						"Jekyll: New post"
+					],
+					[
+						"jshi",
+						"JSHint"
+					],
 					[
 						"Package Control: ",
 						"Package Control: List Packages"
@@ -557,24 +679,12 @@
 						"JSHint"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"markdow",
 						"Markdown Preview: Preview in Browser"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"package",
 						"Package Control: Enable Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
 					],
 					[
 						"js",
@@ -601,14 +711,6 @@
 						"Set Syntax: Todo"
 					],
 					[
-						"mar",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"mark",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
 						"list pa",
 						"Package Control: List Packages"
 					],
@@ -622,10 +724,6 @@
 					],
 					[
 						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"remove",
 						"Package Control: Remove Package"
 					],
 					[
@@ -770,134 +868,134 @@
 			},
 			"file_history":
 			[
-				"/home/charles/bands/rn_scrape.rb",
-				"/home/charles/bands/lastfm.rb",
-				"/home/charles/bands/songkick.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/request.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/artist.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client.rb",
-				"/home/charles/bands/songkick_ruby/songkick_ruby.gemspec",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/event.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/search.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/calendar.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/errors.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/user.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick.rb",
-				"/home/charles/bands/to_hash_monkeypatch.rb",
-				"/home/charles/bands/soundcloud.rb",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/main.js",
-				"/home/charles/bands/nbs.rb",
-				"/home/charles/bands/.gitignore",
-				"/home/charles/Downloads/.org.chromium.Chromium.Bpc3ZY",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/helper/debug.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/bower_components/debug/Readme.md",
-				"/home/charles/Dropbox/Projects/Utterson/.jshintrc",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/post.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/models/post.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/main.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/styles/main.scss",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/posts.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/collections/post.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/collections/author.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/models/author.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/post.hbs",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/author.hbs",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/author.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/styles/main.css",
-				"/home/charles/Dropbox/Projects/Utterson/blog/data/author_store.json",
-				"/home/charles/Dropbox/Projects/Utterson/blog/data/authors/0.json",
-				"/home/charles/Dropbox/Projects/Utterson/README.md",
-				"/home/charles/Dropbox/Projects/Utterson/Gruntfile.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/data/custom.css",
-				"/home/charles/Dropbox/Projects/Utterson/blog/styles/base.scss",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/routes/router.js",
-				"/home/charles/.config/sublime-text-2/Packages/User/Jshintify.sublime-settings",
-				"/home/charles/Dropbox/Projects/Utterson/.tmp/scripts/templates.js",
-				"/home/charles/Dropbox/Projects/Utterson/.yo-rc.json",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/q.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/xpost.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/xposts.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/posts.hbs",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/posts.ejs",
-				"/home/charles/Dropbox/Projects/Utterson/blog/index.html",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/models/post.js",
-				"/home/charles/Dropbox/Projects/blog/blog/index.html",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/templates/post.hbs",
-				"/home/charles/Dropbox/Projects/blog/blog2/scripts/main.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/main.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/posts.js",
-				"/home/charles/Dropbox/Projects/blog/blog2/index.html",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/collections/author.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/collections/post.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/models/author.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/post.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/author.js",
-				"/home/charles/Dropbox/Projects/blog/blog/data/author_store.json",
-				"/home/charles/Dropbox/Projects/blog/blog/data/authors/0",
-				"/home/charles/Dropbox/Projects/blog/blog/data/posts_store.json",
-				"/home/charles/Dropbox/Projects/blog/blog/data/posts/2",
-				"/home/charles/Dropbox/Projects/blog/blog/data/posts/0",
-				"/home/charles/Dropbox/Projects/blog/blog/data/content/posts/1",
-				"/home/charles/Dropbox/Projects/blog/TODO.md",
-				"/home/charles/Dropbox/Projects/blog/README.md",
-				"/home/charles/Dropbox/Projects/blog/bower.json",
-				"/home/charles/Dropbox/Projects/blog/Gruntfile.js",
-				"/home/charles/Dropbox/Projects/blog/TODOm.md",
-				"/home/charles/Dropbox/Projects/blog/blog/styles/base.scss",
-				"/home/charles/Dropbox/Projects/blog/blog/data/custom.css",
-				"/home/charles/Dropbox/Projects/truthiness/alchemyapi_node/.gitignore",
-				"/home/charles/Dropbox/Projects/truthiness/alchemyapi_node/package.json",
-				"/home/charles/Dropbox/Projects/blog/app/styles/base.scss",
-				"/home/charles/Dropbox/Projects/blog/.bowerrc",
-				"/home/charles/Dropbox/Projects/blog/.gitignore",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/main.js",
-				"/home/charles/Dropbox/Projects/blog/js/post.js",
-				"/home/charles/Dropbox/Projects/blog/js/routes.js",
-				"/home/charles/Dropbox/Projects/blog/js/author.js",
-				"/home/charles/Dropbox/Projects/blog/TODO",
-				"/home/charles/Dropbox/Projects/blog/index.html",
-				"/home/charles/Dropbox/Projects/blog/.yo-rc.json",
-				"/home/charles/Dropbox/Projects/blog/.editorconfig",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/models/author.js",
-				"/home/charles/Dropbox/Projects/blog/package.json",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/collections/post.js",
-				"/home/charles/Dropbox/Projects/blog/app/index.html",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/models/post.js",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/views/post.js",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/views/posts.js",
-				"/home/charles/Dropbox/Projects/blog/app/data/posts_store.json",
-				"/home/charles/Dropbox/Projects/blog/app/data/posts/3.md",
-				"/home/charles/Dropbox/Projects/blog/app/data/posts/1.md",
-				"/home/charles/Dropbox/Projects/blog/app/data/posts/2.md",
-				"/home/charles/Dropbox/Projects/blog/app/styles/main.scss",
-				"/home/charles/Dropbox/Projects/blog/index.js",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/collections/posts.js",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/models/posts.js",
-				"/home/charles/Dropbox/Projects/blog/app/styles/main.css",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/routes/router.js",
-				"/home/charles/Dropbox/Projects/blog/data/posts_store.json",
-				"/home/charles/Dropbox/Projects/blog/css/base/base.css",
-				"/home/charles/Dropbox/Projects/blog/posts_store.json",
-				"/home/charles/Dropbox/Projects/blog/posts/1.md",
-				"/home/charles/Dropbox/Projects/blog/base.css",
-				"/home/charles/Dropbox/Projects/blog/vendor/highlight.js",
-				"/home/charles/Dropbox/Projects/blog/posts/2.md",
-				"/home/charles/Dropbox/Projects/blog/author_store.json",
-				"/home/charles/Dropbox/Projects/blog/post_store.js",
-				"/home/charles/dad/index.html",
-				"/home/charles/dad/index.js",
-				"/home/charles/dad/routes.js",
+				"/home/charles/Projects/simple-web-tracker/.gitignore",
+				"/home/charles/Projects/rabid.audio/_posts/2015-1-7-if-i-were-a-professor.md",
+				"/home/charles/Projects/rabid.audio/README.md",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_core.scss",
+				"/home/charles/Projects/rabid.audio/_plugins/wikipe_link.rb",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_home.scss",
+				"/home/charles/Projects/rabid.audio/assets/_src/console_message.js",
+				"/home/charles/Projects/rabid.audio/assets/_src/keyboard_shortcuts.js",
+				"/home/charles/Projects/rabid.audio/assets/_src/page_swipe.js",
+				"/home/charles/Projects/rabid.audio/assets/_src/natural_date_replacements.js",
+				"/home/charles/Projects/rabid.audio/assets/_src/header_anchors.js",
+				"/home/charles/Projects/rabid.audio/Gruntfile.js",
+				"/home/charles/Projects/rabid.audio/_includes/header.html",
+				"/home/charles/Projects/rabid.audio/assets/_src/dinkus_to_top.js",
+				"/home/charles/Projects/rabid.audio/feed.xml",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_other.scss",
+				"/home/charles/Projects/rabid.audio/_includes/dinkus.html",
+				"/home/charles/Projects/rabid.audio/_layouts/default.html",
+				"/home/charles/Projects/rabid.audio/_drafts/2014-12-18-cheatsheet.md",
+				"/home/charles/Projects/rabid.audio/_sass/_mobile.scss",
+				"/home/charles/Projects/rabid.audio/_posts/2015-1-10-ac-light-dimmer-circuit.md",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_images.scss",
+				"/home/charles/.config/sublime-text-2/Packages/Jekyll/README.md",
+				"/home/charles/Projects/rabid.audio/assets/_src/image_caption.js",
+				"/home/charles/Projects/rabid.audio/_plugins/better_image_tag.rb",
+				"/home/charles/Projects/rabid.audio/_config.yml",
+				"/home/charles/Projects/rabid.audio/Gemfile",
+				"/home/charles/Projects/rabid.audio/_includes/head.html",
+				"/home/charles/Projects/rabid.audio/node_modules/grunt/node_modules/underscore.string/Gemfile",
+				"/home/charles/Projects/rabid.audio/_sass/_rabidaudio.scss",
+				"/home/charles/Projects/rabid.audio/_includes/colored_tags.html",
+				"/home/charles/Projects/rabid.audio/_includes/post_list_item.html",
+				"/home/charles/Projects/rabid.audio/all.html",
+				"/home/charles/Projects/rabid.audio/_layouts/post.html",
+				"/home/charles/Projects/rabid.audio/index.html",
+				"/home/charles/Projects/rabid.audio/bower.json",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_content.scss",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_post.scss",
+				"/home/charles/Projects/rabid.audio/_posts/2010-06-21-effects-pedals-15.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-05-14-effects-pedals-1.html",
+				"/home/charles/Projects/rabid.audio/_templates/page_head.yaml.hbs",
+				"/home/charles/Projects/rabid.audio/about.md",
+				"/home/charles/Projects/rabid.audio/_includes/headshot.html",
+				"/home/charles/Projects/rabid.audio/_templates/page.md.hbs",
+				"/home/charles/Projects/rabid.audio/_templates/post.md.hbs",
+				"/home/charles/Projects/rabid.audio/_templates/post_head.yaml.hbs",
+				"/home/charles/Projects/rabid.audio/_templates/post.md",
+				"/home/charles/Projects/rabid.audio/_includes/social.html",
+				"/home/charles/Projects/rabid.audio/_drafts/2015-1-8-asd.md",
+				"/home/charles/Projects/rabid.audio/package.json",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_footer.scss",
+				"/home/charles/Projects/rabid.audio/_posts/2015-1-8-asdf.md",
+				"/home/charles/Projects/rabid.audio/_includes/colorset.html",
+				"/home/charles/Projects/rabid.audio/_includes/footer.html",
+				"/home/charles/Projects/rabid.audio/css/main.scss",
+				"/home/charles/Projects/rabid.audio/_sass/_base.scss",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_header.scss",
+				"/home/charles/Projects/rabid.audio/_site/blog/css/main.css",
+				"/home/charles/Projects/rabid.audio/_posts/2014-12-18-using-grunt-with-jekyll.md",
+				"/home/charles/Projects/rabid.audio/_posts/2010-02-08-welcome.html",
+				"/home/charles/Projects/rabid.audio/_posts/2015-1-2-interview-questions.md",
+				"/home/charles/Projects/rabid.audio/_posts/2015-1-2-android-callbacks.md",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/lang/en/settings.php",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/action.php",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/conf/metadata.php",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/conf/default.php",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/lang/en/lang.php",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/README.md",
+				"/home/charles/Projects/dokuwiki/data/pages/_autostartpage.txt",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/plugin.info.txt",
+				"/home/charles/Projects/static-site-comments/index.html",
+				"/home/charles/Projects/static-site-comments/akismet.js/README.md",
+				"/home/charles/Projects/static-site-comments/akismet.js/.gitignore",
+				"/home/charles/Projects/static-site-comments/akismet.js/bin/make.js",
+				"/home/charles/Projects/static-site-comments/akismet.js/package.json",
+				"/home/charles/Projects/static-site-comments/akismet.js/bower.json",
+				"/home/charles/Projects/rabid.audio/_includes/comments_count.html",
+				"/home/charles/Projects/rabid.audio/_includes/comments.html",
+				"/home/charles/Projects/rabid.audio/_drafts/2014-11-10-best-discoveries-of-last-12-months.html",
+				"/home/charles/Projects/rabid.audio/_layouts/full-blank.html",
+				"/home/charles/Projects/rabid.audio/_vendor/javascript_utils/jquery_extensions.js",
+				"/home/charles/Projects/rabid.audio/_includes/album_art.js",
+				"/home/charles/Projects/rabid.audio/_vendor/javascript_utils/rand_subset.js",
+				"/home/charles/Projects/rabid.audio/_includes/cc.svg",
+				"/home/charles/Projects/rabid.audio/_includes/sa.svg",
+				"/home/charles/Projects/rabid.audio/_includes/by.svg",
+				"/home/charles/Projects/rabid.audio/_includes/creative_commons.html",
+				"/home/charles/Projects/rabid.audio/assets/js/output.js",
+				"/home/charles/Projects/rabid.audio/_layouts/no_wrapper.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-04-07-buoyancy.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-03-11-creative-commons.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-02-24-butch-walker.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-02-09-bad-news.html",
+				"/home/charles/Projects/rabid.audio/_posts/2011-10-08-must-read-blog-on-music-and-piracy.html",
+				"/home/charles/Projects/rabid.audio/_posts/2012-07-26-not-cloud-hive.html",
+				"/home/charles/Projects/rabid.audio/_drafts/2014-01-05-why-artpop-born-this-way.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-09-12-new-blog-on-way.html",
+				"/home/charles/Projects/rabid.audio/_layouts/page.html",
 				"/home/charles/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/charles/.config/sublime-text-2/Packages/User/MarkdownPreview.sublime-settings",
-				"/home/charles/.config/sublime-text-2/Packages/Markdown Preview/Default.sublime-commands",
-				"/home/charles/.config/sublime-text-2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
-				"/home/charles/Desktop/wira.mdown",
-				"/home/charles/dad/tags.js",
-				"/home/charles/Dropbox/Projects/CarMediaPlayer/main.js",
-				"/home/charles/Dropbox/Projects/CarMediaPlayer/db.js",
-				"/home/charles/Dropbox/Projects/CarMediaPlayer/tags.js",
-				"/home/charles/Dropbox/Projects/TeamFutureForFirefox/package.json",
-				"/home/charles/Dropbox/Projects/chrome-regex-extension/manifest.json"
+				"/home/charles/Projects/rabid.audio/_includes/outdated.html",
+				"/home/charles/Projects/rabid.audio/_drafts/2013-12-03-startup-exchange.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-11-03-color-of-music-ii.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-06-08-wearable-lighty-shirty-thingy.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-02-18-swank-stupid-simple-static-webserver.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-01-28-temporary-solution.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-01-03-a-little-thing.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-08-13-discrete-potentiometer.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-05-12-lastfm-api-genre-influences.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-04-30-dsp-arduino.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-04-01-location-enabled-mesh-networking.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-02-15-circular-buffer-algorithm-rates-on.html",
+				"/home/charles/Projects/rabid.audio/_posts/2012-11-28-the-color-of-music.html",
+				"/home/charles/Projects/rabid.audio/_posts/2012-09-20-microsofts-impending-software.html",
+				"/home/charles/Projects/rabid.audio/_posts/2012-08-19-chorded-keyboard.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-08-29-wkipe-official-announcement.html",
+				"/home/charles/Projects/rabid.audio/_posts/2011-11-18-fun-with-lastfm-api.html",
+				"/home/charles/Projects/rabid.audio/_posts/2011-11-17-interesting-case-of-digital-property.html",
+				"/home/charles/Projects/rabid.audio/_posts/2011-10-26-patents.html",
+				"/home/charles/Projects/rabid.audio/_posts/2011-08-08-car-stereo-2.html",
+				"/home/charles/Projects/rabid.audio/_posts/2011-06-10-genre-analysis.html",
+				"/home/charles/Projects/rabid.audio/_posts/2011-06-07-car-stereo-1-and-more.html",
+				"/home/charles/Projects/rabid.audio/_posts/2011-03-31-kittyserv-30.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-05-03-music-and-piracy-new-direction.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-07-12-site-launch.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-08-18-server-isues.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-09-21-unrelated-circuit-4-bit-adding-machine.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-11-29-wearable-computing.html",
+				"/home/charles/Projects/rabid.audio/_vendor/natural-dates/natural_dates.js"
 			],
 			"find":
 			{
@@ -905,9 +1003,14 @@
 			},
 			"find_in_files":
 			{
-				"height": 90.0,
+				"height": 0.0,
 				"where_history":
 				[
+					"/home/charles/Projects/rabid.audio/_sass",
+					"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage",
+					"/home/charles/Dropbox/Projects/blog2/rabid.audio/_posts",
+					"/home/charles/Dropbox/Projects/blog2/rabid.audio",
+					"/home/charles/Dropbox/Projects/blog2/rabid.audio/_drafts",
 					"/home/charles/bands/songkick_ruby/lib",
 					"/home/charles/Dropbox/Projects/Utterson/blog/scripts",
 					"",
@@ -925,141 +1028,162 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"result[\"artist\"]",
-					"remote",
-					"REMOTE",
-					"remote",
-					"API_URL",
-					"username",
-					"users/",
-					"username,",
-					"users/",
-					"users",
-					"irb(main):00",
-					"\"}, ",
-					"},",
-					"Lastfm",
-					"LastFM",
-					"LASTFM",
-					"LastFM",
-					"LASTFM",
-					"LastFM",
-					"lastfm_",
-					"q",
 					"\"",
-					"this",
-					"console",
-					"View",
-					"Debug",
-					"view",
-					"this",
-					"that",
+					"request",
+					"Request",
+					"request",
+					"data.",
+					"Introduction - Modernism and Postmodernism",
+					"[A-Z].*",
+					"Introduction",
+					"  |",
+					"{% wkipe",
+					"g  ",
+					" g ",
+					"console.",
+					"gg",
+					"ff",
+					"onsole.",
 					"\"",
-					"Templates",
-					"JST",
-					"\"",
-					"sass",
-					"\"",
-					"source\")",
-					"\"",
-					"source\")",
-					"\"",
-					"source\")",
-					"\"",
-					"{\n",
-					"\"",
-					"handlebars",
-					"watch",
-					"handlebars",
-					"dist",
-					"JST",
-					"requ",
-					"bowerInstall",
-					"ignore",
-					"\"",
-					"app",
-					" (\\[.*\\])\\[(.*)\\] ",
-					"(\\[.*\\])\\[(.*)\\]",
-					"[XAMPP][http://www.apachefriends.org/index.html] every time I changed projects, so I whipped up a little project called [swank][https://github.com/rabidaudio/swank]",
-					"(\\[.*\\])\\[(.*)\\]",
-					"\\[.*\\]\\[\\]",
-					"(\\[.*\\])\\[\\]",
-					"((\\[.*\\])\\[\\]",
-					"hljs",
-					"console.log",
-					"m",
-					"datar",
-					"input",
-					"Input",
-					"\"",
-					"inputsSchema",
-					"Config",
-					"configSchema",
-					"json",
-					"mailto:",
-					"mailto:\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\\b",
-					"\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\\b",
-					" +",
-					"\\s+",
-					"\\s",
-					"this",
-					"n_p",
-					"\\ln",
-					"response",
-					"$(this).val()",
-					"console.log",
-					"require",
-					"less",
-					"dev",
-					"browserify",
-					"var ",
-					"create_speaker()",
-					"sudo",
-					"create",
-					"GUI",
-					"gui",
-					"GUI",
-					"IO",
-					"Library",
-					"that",
-					"e",
-					"underscore",
-					":",
-					"p",
-					"{ Helper.random_string }",
-					"@definition",
-					"@definition.random_string",
-					"MEOW",
-					"Helpers",
-					"::",
-					"Helpers",
+					"key",
+					"style",
+					"message",
+					"string",
+					"optoc",
+					"fright",
+					"fleft",
+					"fright",
+					"fleft",
+					"source=",
+					"source",
+					".gsub(/\"/, \"\")",
+					"and not @attributes[:caption].nil?",
+					"title",
+					"source",
+					"@source",
+					"source",
+					"classes",
+					"src",
+					"options",
+					"Nokogiri::",
+					"cat.jpg",
+					"drawing",
+					"jpg",
+					"right",
+					"left",
+					"drawing",
+					".img-wrapper",
+					"img",
+					"lang",
 					"# ",
-					"random_string",
-					"end",
-					"configureProxies",
-					"Success",
-					"success",
-					"Success",
-					"success",
-					"approve",
-					"paypal_email",
-					"function getCode(",
-					"getCode(",
-					"Zend_Controller_Exception",
-					"Zend_Controller_Router_Exception",
-					"EXCEPTION_NO_ROUTE",
-					"Zend_Exception",
-					"error",
-					"test",
+					" %}",
+					"{% i ",
 					"\"",
-					"_order_chronologically"
+					"tmp",
+					"/tmp/",
+					"/tmp",
+					".*",
+					"current_color",
+					"400",
+					"\"",
+					"mountFolder",
+					"this_task",
+					"date_str",
+					",,",
+					"            when:     isPost",
+					"layout",
+					"now",
+					"layout",
+					"full_date_string",
+					"d.",
+					"    ",
+					"v",
+					"key",
+					"val",
+					"item",
+					"pairs",
+					"d.",
+					"d",
+					"D",
+					"d",
+					"df",
+					"tz",
+					"grey-color-dark",
+					"grey-color-light",
+					")",
+					"(",
+					")",
+					"1)",
+					"(",
+					"{%",
+					"- ",
+					"{%",
+					"- ",
+					", ",
+					"\\n+",
+					"read_buffer",
+					"read_",
+					"join",
+					"Services",
+					"darker",
+					"'#",
+					"#",
+					"useslash",
+					"create_as_server",
+					"config",
+					"option",
+					"options",
+					"data.topalbums.album",
+					"nav",
+					"el",
+					"e",
+					"data",
+					"content",
+					":",
+					"  ",
+					"float: left",
+					"323232",
+					"author-foot",
+					"cancel",
+					"touch",
+					"edown.originalEvent",
+					"eup.originalEvent",
+					"touchstop",
+					"console.log",
+					"finger",
+					"swipe",
+					"category",
+					"div",
+					"span",
+					"categories"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					"grey-color-darker",
+					"grey-color-lighter",
+					"\\n",
+					"darkerer",
+					"\\1",
+					" \\1",
+					"\\1 ",
+					"\\1",
+					"\"title\": \"\\\\\"\\1\\\\\"\",",
+					"\"title\": \"\"\\\\\"\\1\\\\\"\",",
+					"\"title\": \"\\\\\"\\1\\\\\",",
+					"false",
+					"true",
+					"\\1\"",
+					"\"\\1",
+					" \"\\1",
+					" \"",
+					"\"",
+					" \"",
+					"\":",
+					"\"",
 					"},\\n",
 					"'",
 					" \\1(\\2) ",
@@ -1122,6 +1246,14 @@
 			{
 				"height": 100.0
 			},
+			"output.markdown":
+			{
+				"height": 100.0
+			},
+			"output.package_dev":
+			{
+				"height": 228.0
+			},
 			"replace":
 			{
 				"height": 62.0
@@ -1133,360 +1265,516 @@
 				"selected_items":
 				[
 					[
-						"post.j",
-						"blog/scripts/models/post.js"
+						"read",
+						"README.md"
 					],
 					[
-						"post.js",
-						"blog/scripts/models/post.js"
+						"_core",
+						"_sass/rabidaudio/_core.scss"
+					],
+					[
+						"wiki",
+						"_plugins/wikipe_link.rb"
+					],
+					[
+						"din",
+						"assets/_src/dinkus_to_top.js"
+					],
+					[
+						"dink",
+						"_includes/dinkus.html"
+					],
+					[
+						"header",
+						"_includes/header.html"
+					],
+					[
+						"defa",
+						"_layouts/default.html"
+					],
+					[
+						"feed",
+						"feed.xml"
+					],
+					[
+						"grunt",
+						"Gruntfile.js"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"chea",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						"image",
+						"_sass/rabidaudio/_images.scss"
+					],
+					[
+						"imag",
+						"_sass/rabidaudio/_images.scss"
+					],
+					[
+						"gr",
+						"Gruntfile.js"
+					],
+					[
+						"ac-l",
+						"_posts/2015-1-10-ac-light-dimmer-circuit.md"
+					],
+					[
+						"head",
+						"_includes/head.html"
+					],
+					[
+						"hea",
+						"_includes/header.html"
+					],
+					[
+						"gemf",
+						"Gemfile"
+					],
+					[
+						"gem",
+						"node_modules/grunt/node_modules/underscore.string/Gemfile"
+					],
+					[
+						"_conf",
+						"_config.yml"
+					],
+					[
+						"rabid",
+						"_sass/_rabidaudio.scss"
+					],
+					[
+						"cheat",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"all",
+						"all.html"
+					],
+					[
+						"bow",
+						"bower.json"
 					],
 					[
 						"post",
-						"blog/scripts/views/post.js"
+						"_layouts/post.html"
 					],
 					[
-						"posts.",
-						"blog/scripts/views/posts.js"
+						"colored",
+						"_includes/colored_tags.html"
 					],
 					[
-						"post.",
-						"blog/scripts/models/post.js"
+						"post_",
+						"_includes/post_list_item.html"
 					],
 					[
-						"author.js",
-						"blog/scripts/models/author.js"
+						"_con",
+						"_config.yml"
 					],
 					[
-						"posts.js",
-						"app/scripts/collections/posts.js"
+						"abou",
+						"about.md"
 					],
 					[
-						"posts.j",
-						"app/scripts/views/posts.js"
+						"soc",
+						"_includes/social.html"
 					],
 					[
-						"internal",
-						"internal.h"
+						"post.md",
+						"_templates/post.md"
 					],
 					[
-						"st.h",
-						"include/ruby/st.h"
+						"pack",
+						"package.json"
 					],
 					[
-						"ruby.h",
-						"include/ruby/ruby.h"
+						"_c",
+						"_config.yml"
 					],
 					[
-						"appl",
-						"config/application.rb"
+						"asdf",
+						"_posts/2015-1-8-asdf.md"
 					],
 					[
-						"env.",
-						"features/support/env.rb"
+						"post.m",
+						"_templates/post.md"
 					],
 					[
-						"to_payments",
-						"migrations/20140506224933_add_paypal_correlation_id_to_payments.php"
+						"grun",
+						"Gruntfile.js"
 					],
 					[
-						"payments",
-						"application/models/DbTable/Payments.php"
+						"conso",
+						"assets/_src/console_message.js"
 					],
 					[
-						"util",
-						"application/library/Util.php"
+						"colr",
+						"_includes/colorset.html"
 					],
 					[
-						"appli",
-						"application/configs/application.ini"
+						"content",
+						"_sass/rabidaudio/_content.scss"
 					],
 					[
-						"admined",
-						"application/controllers/AdminEditorController.php"
+						"foo",
+						"_includes/footer.html"
 					],
 					[
-						"payment",
-						"application/models/DbTable/Payments.php"
+						"foot",
+						"_sass/rabidaudio/_footer.scss"
 					],
 					[
-						"user",
-						"application/models/User.php"
+						"main",
+						"css/main.scss"
 					],
 					[
-						"mytes",
-						"application/controllers/MytestController.php"
+						"color",
+						"_includes/colorset.html"
 					],
 					[
-						"feat",
-						"application/library/EnabledFeatures.php"
+						"core",
+						"_sass/rabidaudio/_core.scss"
 					],
 					[
-						"transc",
-						"application/controllers/TranscriberController.php"
+						"che",
+						"_drafts/2014-12-18-cheatsheet.md"
 					],
 					[
-						"dbtablepaym",
-						"application/models/DbTable/Payments.php"
+						"_config",
+						"_config.yml"
 					],
 					[
-						"transcr",
-						"application/models/Transcriber.php"
-					],
-					[
-						"admincontr",
-						"application/controllers/AdminEditorController.php"
-					],
-					[
-						"adminco",
-						"application/controllers/AdminsController.php"
-					],
-					[
-						"dbtablepayments",
-						"application/models/DbTable/Payments.php"
-					],
-					[
-						"vendor/bin/phinx",
-						"vendor/robmorgan/phinx/src/Phinx/Db/Adapter/MysqlAdapter.php"
-					],
-					[
-						"phinx",
-						"vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php"
-					],
-					[
-						"completed_to",
-						"migrations/20140501225723_add_completed_to_payments.php"
-					],
-					[
-						"app",
-						"application/configs/application.ini"
-					],
-					[
-						"payme",
-						"application/controllers/PaymentController.php"
-					],
-					[
-						"log/mai",
-						"var/log/mail.log"
-					],
-					[
-						"admintransc",
-						"application/modules/admin/controllers/TranscribersController.php"
-					],
-					[
-						"paymentc",
-						"application/controllers/PaymentController.php"
-					],
-					[
-						"order",
-						"application/models/DbTable/Orders.php"
-					],
-					[
-						"transcriercon",
-						"application/controllers/TranscriberController.php"
-					],
-					[
-						"editor",
-						"application/views/scripts/transcriber/editor.phtml"
-					],
-					[
-						"clientc",
-						"application/controllers/ClientController.php"
-					],
-					[
-						"editor.p",
-						"application/views/scripts/transcriber/editor.phtml"
-					],
-					[
-						"_pages_edit",
-						"application/views/scripts/_pages/_editorMain.phtml"
-					],
-					[
-						"editor.ph",
-						"application/views/scripts/transcriber/editor.phtml"
-					],
-					[
-						"editorfilesplayer",
-						"public/editor/files/player.js"
-					],
-					[
-						"getnotescont",
-						"library/GetNotes/Controller/Action.php"
-					],
-					[
-						"trans",
-						"application/models/Transcriber.php"
-					],
-					[
-						"mytest",
-						"application/controllers/MytestController.php"
-					],
-					[
-						"transcri",
-						"application/models/Transcriber.php"
-					],
-					[
-						"admin",
-						"application/controllers/AdminEditorController.php"
-					],
-					[
-						"create_payments",
-						"migrations/20140409235618_create_payments_table.php"
-					],
-					[
-						"getnotesact",
-						"library/GetNotes/Controller/Action.php"
-					],
-					[
-						"getnotescontroller",
-						"library/GetNotes/Controller/Action.php"
-					],
-					[
-						"transcriberco",
-						"application/controllers/TranscriberController.php"
-					],
-					[
-						"transcriberget",
-						"application/views/scripts/transcriber/get.phtml"
-					],
-					[
-						"paymnts",
-						"application/models/DbTable/Payments.php"
-					],
-					[
-						"paypal",
-						"application/library/Paypal.php"
-					],
-					[
-						".md",
-						"development_setup.md"
-					],
-					[
-						"36",
-						"node_modules/lame/deps/mpg123/src/libmpg123/dct36_3dnow.S"
+						"androi",
+						"_posts/2015-1-2-android-callbacks.md"
 					],
 					[
 						".gitig",
 						".gitignore"
 					],
 					[
-						"compo",
-						"composer.json"
-					],
-					[
-						"twi",
-						"application/library/Twilio.php"
-					],
-					[
-						"hellp",
-						"application/library/HelloSign.php"
-					],
-					[
-						"hello",
-						"application/library/HelloSign.php"
-					],
-					[
-						"hellos",
-						"application/library/HelloSign.php"
-					],
-					[
-						"twili",
-						"application/library/Twilio.php"
-					],
-					[
-						"applica",
-						"application/configs/application.ini"
-					],
-					[
-						"composer",
-						"composer.json"
-					],
-					[
-						"jobs-",
-						"application/views/scripts/admin-editor/jobs-pending.phtml"
-					],
-					[
-						"adminuser",
-						"application/modules/admin/views/scripts/users/get.phtml"
-					],
-					[
-						"transcrberm",
-						"application/models/TranscriberMapper.php"
-					],
-					[
-						"usermapper",
-						"application/models/UserMapper.php"
-					],
-					[
-						"transcriber",
-						"application/modules/admin/controllers/TranscribersController.php"
-					],
-					[
-						"dbtableorders",
-						"application/models/DbTable/Orders.php"
-					],
-					[
-						"adminc",
-						"application/controllers/AdminsController.php"
-					],
-					[
-						"comments",
-						"migrations/20140320031336_add_graded_to_order_status_id_comments.php"
-					],
-					[
-						"createpayments",
-						"migrations/20140409235618_create_payments_table.php"
-					],
-					[
 						".git",
 						".gitignore"
 					],
 					[
-						"user.",
-						"application/models/User.php"
+						"bower",
+						"bower.json"
 					],
 					[
-						"orders.",
-						"application/models/DbTable/Orders.php"
+						"home.scs",
+						"_sass/rabidaudio/_home.scss"
 					],
 					[
-						"orderslist",
-						"application/views/scripts/_lists/_ordersList.phtml"
+						"home",
+						"_sass/rabidaudio/_home.scss"
 					],
 					[
-						"transcriber/",
-						"application/views/scripts/transcriber/index.phtml"
+						"inde",
+						"index.html"
 					],
 					[
-						"models/tra",
-						"application/models/Transcriber.php"
+						"best",
+						"_drafts/2014-11-10-best-discoveries-of-last-12-months.html"
 					],
 					[
-						"test",
-						"application/controllers/TestsController.php"
+						"key",
+						"assets/_src/keyboard_shortcuts.js"
 					],
 					[
-						"applicat",
-						"application/configs/application.ini"
+						"conf",
+						"_config.yml"
 					],
 					[
-						"getnotes/mail",
-						"library/GetNotes/Mailer.php"
+						"mob",
+						"_sass/_mobile.scss"
 					],
 					[
-						"models/inv",
-						"application/models/Invitation.php"
+						"mobi",
+						"_sass/_mobile.scss"
 					],
 					[
-						"mailer/inv",
-						"application/views/scripts/mailer/transcriber-invite.html.phtml"
+						"full",
+						"_layouts/full-blank.html"
 					],
 					[
-						"mailer/new",
-						"application/views/scripts/mailer/new-transcriber.html.phtml"
+						"bowe",
+						"bower.json"
 					],
 					[
-						"transcribersco",
-						"modules/admin/controllers/TranscribersController.php"
+						"ra",
+						"_sass/_rabidaudio.scss"
+					],
+					[
+						"jquer",
+						"_vendor/javascript_utils/jquery_extensions.js"
+					],
+					[
+						"keyb",
+						"assets/_src/keyboard_shortcuts.js"
+					],
+					[
+						"console",
+						"assets/_src/console_message.js"
+					],
+					[
+						"rand_",
+						"_vendor/javascript_utils/rand_subset.js"
+					],
+					[
+						"mobil",
+						"_sass/_mobile.scss"
+					],
+					[
+						"content.scss",
+						"_sass/rabidaudio/_content.scss"
+					],
+					[
+						"he",
+						"_includes/head.html"
+					],
+					[
+						"soci",
+						"_includes/social.html"
+					],
+					[
+						"def",
+						"_layouts/default.html"
+					],
+					[
+						"out",
+						"assets/js/output.js"
+					],
+					[
+						"cloud-",
+						"_posts/2012-07-26-not-cloud-hive.html"
+					],
+					[
+						"artpo",
+						"_drafts/2014-01-05-why-artpop-born-this-way.html"
+					],
+					[
+						"new-blo",
+						"_posts/2014-09-12-new-blog-on-way.html"
+					],
+					[
+						"new-blog",
+						"_posts/2014-09-12-new-blog-on-way.html"
+					],
+					[
+						"con",
+						"_config.yml"
+					],
+					[
+						"socia",
+						"_includes/social.html"
+					],
+					[
+						"headshot",
+						"_includes/headshot.html"
+					],
+					[
+						"defau",
+						"_layouts/default.html"
+					],
+					[
+						"dinku",
+						"_includes/dinkus.html"
+					],
+					[
+						"headsh",
+						"_includes/headshot.html"
+					],
+					[
+						"page",
+						"_layouts/page.html"
+					],
+					[
+						"pos",
+						"_layouts/post.html"
+					],
+					[
+						"rab",
+						"_sass/_rabidaudio.scss"
+					],
+					[
+						"2013",
+						"_drafts/2013-12-03-blog-post.html"
+					],
+					[
+						"nat",
+						"_vendor/javascript_utils/natural_dates.js"
+					],
+					[
+						"natura",
+						"assets/_src/natural_date_replacements.js"
+					],
+					[
+						"confi",
+						"_config.yml"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"natural",
+						"_vendor/javascript_utils/natural_dates.js"
+					],
+					[
+						"div",
+						"divshot.json"
+					],
+					[
+						"grunt-with",
+						"_posts/2014-12-18-using-grunt-with-jekyll.md"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"jquery",
+						"_vendor/javascript_utils/jquery_extensions.js"
+					],
+					[
+						"postm",
+						"_templates/post.md"
+					],
+					[
+						"heash",
+						"_includes/headshot.html"
+					],
+					[
+						"natur",
+						"assets/_src/natural_date_replacements.js"
+					],
+					[
+						"po",
+						"_layouts/post.html"
+					],
+					[
+						"cc.svg",
+						"_includes/cc.svg"
+					],
+					[
+						"lay",
+						"_sass/_layout.scss"
+					],
+					[
+						"base",
+						"_sass/_base.scss"
+					],
+					[
+						"bowerrc",
+						".bowerrc"
+					],
+					[
+						"cc.sv",
+						"_includes/cc.svg"
+					],
+					[
+						"emai",
+						"_includes/email-icon.svg"
+					],
+					[
+						"gru",
+						"Gruntfile.js"
+					],
+					[
+						"2014-in",
+						"_posts/2014-12-18-using-grunt-with-jekyll.md"
+					],
+					[
+						"cheatsheet",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						"rabi",
+						"_sass/_rabidaudio.scss"
+					],
+					[
+						"cheatshee",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						"grunt-wi",
+						"_posts/2014-12-18-using-grunt-with-jekyll.md"
+					],
+					[
+						"default",
+						"_layouts/default.html"
+					],
+					[
+						"ab",
+						"about.md"
+					],
+					[
+						"colorset",
+						"_includes/colorset.html"
+					],
+					[
+						"rabud",
+						"_sass/_rabidaudio.scss"
+					],
+					[
+						"scss",
+						"css/main.scss"
+					],
+					[
+						"cheatshe",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						"readme",
+						"README.md"
+					],
+					[
+						"cheatsh",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						".bo",
+						".bowerrc"
+					],
+					[
+						"di",
+						"divshot.json"
+					],
+					[
+						"co",
+						"_config.yml"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"mesh",
+						"_posts/2013-04-01-location-enabled-mesh-networking.html"
+					],
+					[
+						"circular",
+						"_posts/2013-02-15-circular-buffer-algorithm-rates-on.html"
+					],
+					[
+						"arduino",
+						"_posts/2013-04-30-dsp-arduino.html"
+					],
+					[
+						"intrestin",
+						"_posts/2011-11-17-interesting-case-of-digital-property.html"
+					],
+					[
+						"must",
+						"_posts/2011-10-08-must-read-blog-on-music-and-piracy.html"
 					]
 				],
 				"width": 0.0
@@ -1516,551 +1804,534 @@
 				"selected_items":
 				[
 					[
-						"year",
-						"years_active"
+						"sen",
+						"sentences"
 					],
 					[
-						"rev",
-						"reviews"
+						"sy",
+						"syllableCount"
 					],
 					[
-						"st",
-						"stuff"
+						"lett",
+						"letterCount"
 					],
 					[
-						"last",
-						"Lastfm"
+						"cea",
+						"cleanText"
 					],
 					[
-						"ba",
-						"band_info"
-					],
-					[
-						"reverbna",
-						"reverbnation"
-					],
-					[
-						"band",
-						"band_info"
-					],
-					[
-						"Las",
-						"LastFM"
-					],
-					[
-						"new",
-						"new_result"
-					],
-					[
-						"res",
-						"result"
-					],
-					[
-						"re",
-						"require"
-					],
-					[
-						"api",
-						"api_key"
-					],
-					[
-						"opt",
-						"options"
-					],
-					[
-						"get_",
-						"get_query_option"
-					],
-					[
-						"get",
-						"get_query_option"
-					],
-					[
-						"LAST",
-						"LASTFM_SECRET"
-					],
-					[
-						"co",
-						"comments"
-					],
-					[
-						"bad",
-						"band_data"
-					],
-					[
-						"modu",
-						"module_function"
-					],
-					[
-						"art",
-						"artist_page"
-					],
-					[
-						"user",
-						"user_agent"
-					],
-					[
-						"sear",
-						"search_page"
-					],
-					[
-						"de",
-						"debug"
-					],
-					[
-						"D",
-						"Debug"
-					],
-					[
-						"aut",
-						"authorView"
-					],
-					[
-						"a",
-						"authors"
-					],
-					[
-						"ath",
-						"author"
-					],
-					[
-						"to",
-						"toJSON"
-					],
-					[
-						"ban",
-						"backbone-relational"
-					],
-					[
-						"highlight",
-						"highlightjs"
-					],
-					[
-						"req",
-						"require"
-					],
-					[
-						"ca",
-						"callback"
-					],
-					[
-						"esca",
-						"escapeURL"
-					],
-					[
-						"post",
-						"postsView"
-					],
-					[
-						"high",
-						"highlight"
-					],
-					[
-						"Handle",
-						"Handlebars"
-					],
-					[
-						"togg",
-						"toggleVisible"
-					],
-					[
-						"tem",
-						"template"
-					],
-					[
-						"rend",
-						"rendered"
-					],
-					[
-						"template",
-						"template_id"
-					],
-					[
-						"pat",
-						"pathToString"
-					],
-					[
-						"pr",
-						"properSort"
-					],
-					[
-						"pro",
-						"proper_path"
-					],
-					[
-						"mp",
-						"mp3_files"
-					],
-					[
-						"tra",
-						"track_name"
-					],
-					[
-						"alb",
-						"album_dir"
-					],
-					[
-						"ar",
-						"artist_dir"
-					],
-					[
-						"Id",
-						"ID3"
-					],
-					[
-						"has",
-						"hashRegex"
-					],
-					[
-						"conf",
-						"configName"
-					],
-					[
-						"email",
-						"emailRegex"
-					],
-					[
-						"en",
-						"enumOnOff"
-					],
-					[
-						"par",
-						"parseInt"
-					],
-					[
-						"nu",
-						"numberOfLikes"
-					],
-					[
-						"ap",
-						"api_prefix"
-					],
-					[
-						"se",
-						"sendResponse"
-					],
-					[
-						"w",
-						"window_id"
-					],
-					[
-						"ac",
-						"active_tab"
-					],
-					[
-						"windo",
-						"window_settings"
-					],
-					[
-						"mj",
-						"mjpegReqHandler"
-					],
-					[
-						"diff",
-						"diffpatch"
-					],
-					[
-						"diffch",
-						"diffchars"
-					],
-					[
-						"ed",
-						"editor_textarea"
-					],
-					[
-						"editor",
-						"editor-textarea"
-					],
-					[
-						"Strea",
-						"streamLength"
-					],
-					[
-						"stre",
-						"stream_length"
-					],
-					[
-						"onE",
-						"onErr"
-					],
-					[
-						"on",
-						"onReadable"
-					],
-					[
-						"time",
-						"time_skip"
-					],
-					[
-						"spea",
-						"speaker_options"
-					],
-					[
-						"set",
-						"_set_state"
-					],
-					[
-						"play",
-						"play_pause"
-					],
-					[
-						"gui",
-						"gui_menu_context"
-					],
-					[
-						"track",
-						"track_sort"
-					],
-					[
-						"key",
-						"keymap"
-					],
-					[
-						"ha",
-						"_handle_data"
-					],
-					[
-						"shou",
-						"should_not"
-					],
-					[
-						"random",
-						"random_string"
-					],
-					[
-						"Zend_",
-						"Zend_Exception"
-					],
-					[
-						"payment",
-						"payment_id"
-					],
-					[
-						"max",
-						"max_combined_requests"
-					],
-					[
-						"con",
-						"connection"
-					],
-					[
-						"el",
-						"elements"
-					],
-					[
-						"payme",
-						"paymentObj"
-					],
-					[
-						"cost_of_",
-						"cost_of_transcriber"
+						"ass",
+						"assert"
 					],
 					[
 						"fun",
 						"function"
 					],
 					[
-						"setORder",
-						"setOrderChronologically"
+						"clea",
+						"cleanText"
 					],
 					[
-						"current",
-						"currentUser"
+						"assert",
+						"assertSame"
 					],
 					[
-						"rou",
-						"routing_number"
-					],
-					[
-						"Zend_Form",
-						"Zend_Form_Element_Hidden"
-					],
-					[
-						"with",
-						"withdraw-form"
-					],
-					[
-						"_send",
-						"_send400"
-					],
-					[
-						"curren",
-						"currentUser"
-					],
-					[
-						"line",
-						"linebreaks"
-					],
-					[
-						"lin",
-						"linebreaks"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"backg",
-						"background-color"
-					],
-					[
-						"bg_",
-						"bg_index"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"vide",
-						"video-embedded"
-					],
-					[
-						"prev",
-						"previous_context"
-					],
-					[
-						"pre",
-						"previous_context"
-					],
-					[
-						"arti",
-						"artists"
-					],
-					[
-						"ser",
-						"serialPort"
-					],
-					[
-						"ob",
-						"objRespond"
-					],
-					[
-						"gra",
-						"gravatar_url"
-					],
-					[
-						"transc",
-						"transcriber_id"
-					],
-					[
-						"transcr",
-						"transcriber_value"
-					],
-					[
-						"Appl",
-						"Application_Model_UserMapper"
-					],
-					[
-						"phon",
-						"phone_filter"
-					],
-					[
-						"onKe",
-						"onKeyF12"
-					],
-					[
-						"User",
-						"UserModel"
-					],
-					[
-						"mo",
-						"mongoose"
-					],
-					[
-						"mon",
-						"mongoose"
-					],
-					[
-						"albu",
-						"album_sort"
-					],
-					[
-						"libra",
-						"library_dir"
-					],
-					[
-						"library",
-						"library_file"
-					],
-					[
-						"proto",
+						"pro",
 						"prototype"
 					],
 					[
-						"sera",
-						"serialPort"
+						"arg",
+						"arguments"
+					],
+					[
+						"XMLH",
+						"XMLHttpRequest"
+					],
+					[
+						"time",
+						"timeout	setTimeout function"
+					],
+					[
+						"XML",
+						"XMLHttpRequest"
+					],
+					[
+						"bod",
+						"bodyParser"
+					],
+					[
+						"get",
+						"getGeoIPInfo"
 					],
 					[
 						"c",
 						"console"
 					],
 					[
-						"fu",
-						"function"
+						"marg",
+						"margin-bottom"
 					],
 					[
-						"comma",
-						"command_buffer"
+						"mar",
+						"margin"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"att",
+						"attributes"
+					],
+					[
+						"ca",
+						"caption"
+					],
+					[
+						"class",
+						"classes"
+					],
+					[
+						"to",
+						"to_html"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"un",
+						"unless	unless … end"
+					],
+					[
+						"opt",
+						"options"
+					],
+					[
+						"so",
+						"source"
+					],
+					[
+						"max-",
+						"max-height"
+					],
+					[
+						"highlight",
+						"highlight_post"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"animate",
+						"animate_time"
+					],
+					[
+						"this",
+						"this_color"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"temp",
+						"template"
+					],
+					[
+						"config",
+						"configure_new_page"
+					],
+					[
+						"full",
+						"full_date_string"
+					],
+					[
+						"dra",
+						"drafts"
+					],
+					[
+						"unde",
+						"undefined"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"an",
+						"answers"
+					],
+					[
+						"in",
+						"info"
+					],
+					[
+						"rep",
+						"replace"
+					],
+					[
+						"fil",
+						"filter"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"col",
+						"colormap"
+					],
+					[
+						"confi",
+						"config"
+					],
+					[
+						"repl",
+						"replace"
+					],
+					[
+						"as",
+						"ask"
+					],
+					[
+						"read",
+						"readline"
+					],
+					[
+						"en",
+						"encoder"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"Comme",
+						"CommentEngine"
+					],
+					[
+						"akis",
+						"akismet_key"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"alb",
+						"album_scroll"
+					],
+					[
+						"home-c",
+						"home-content-box"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"al",
+						"albumset"
+					],
+					[
+						"Alb",
+						"AlbumArtElementCollection"
+					],
+					[
+						"el",
+						"elements"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					],
+					[
+						"de",
+						"deploy"
+					],
+					[
+						"dev",
+						"devdeploy"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"e",
+						"eup"
+					],
+					[
+						"on",
+						"onSwipe"
+					],
+					[
+						"t",
+						"touchend"
+					],
+					[
+						"gre",
+						"grey-color"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"g",
+						"grunt-contrib-uglify"
+					],
+					[
+						"lo",
+						"loadNpmTasks"
+					],
+					[
+						"dif",
+						"diff_min"
+					],
+					[
+						"d",
+						"diff_days"
+					],
+					[
+						"m",
+						"months"
+					],
+					[
+						"ro",
+						"round"
+					],
+					[
+						"diff",
+						"diff_days"
+					],
+					[
+						"diff_",
+						"diff_hours"
+					],
+					[
+						"s",
+						"suffix"
+					],
+					[
+						"ONE",
+						"ONE_DAY"
+					],
+					[
+						"ON",
+						"ONE_HOUR"
+					],
+					[
+						"wi",
+						"within_days"
+					],
+					[
+						"getM",
+						"getMinutes"
+					],
+					[
+						"getN",
+						"getNaturalTime"
+					],
+					[
+						"mi",
+						"minutes"
+					],
+					[
+						"plur",
+						"pluralize"
+					],
+					[
+						"da",
+						"day_minutes"
+					],
+					[
+						"p",
+						"push"
+					],
+					[
+						"r",
+						"round"
+					],
+					[
+						"roun",
+						"roundTime"
+					],
+					[
+						"getNat",
+						"getNaturalTime"
+					],
+					[
+						"nat",
+						"naturalDate"
+					],
+					[
+						"am",
+						"ampm"
+					],
+					[
+						"min",
+						"minute_diff"
+					],
+					[
+						"k",
+						"keyCode"
+					],
+					[
+						"ke",
+						"keyListeners"
+					],
+					[
+						"key",
+						"keyListeners"
+					],
+					[
+						"tem",
+						"template"
+					],
+					[
+						"dire",
+						"directories"
+					],
+					[
+						"grey-colo",
+						"grey-color-light"
+					],
+					[
+						"table",
+						"table-cell"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"direc",
+						"directory"
+					],
+					[
+						"ex",
+						"expand"
+					],
+					[
+						"fi",
+						"file"
+					],
+					[
+						"min-",
+						"min-width"
+					],
+					[
+						"ta",
+						"table-cell"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"paddin",
+						"padding"
+					],
+					[
+						"padding",
+						"padding-left"
+					],
+					[
+						"com",
+						"components"
+					],
+					[
+						"test",
+						"testbuild"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"rabid",
+						"rabidaudio"
+					],
+					[
+						"Page",
+						"PageModel"
+					],
+					[
+						"AL",
+						"AlertModel"
+					],
+					[
+						"USer",
+						"UserModel"
+					],
+					[
+						"Cl",
+						"ClubModel"
+					],
+					[
+						"User",
+						"UserPageView"
+					],
+					[
+						"Sin",
+						"SignupView"
+					],
+					[
+						"S",
+						"SigninView"
+					],
+					[
+						"Al",
+						"AlertView"
+					],
+					[
+						"Sig",
+						"Signin"
+					],
+					[
+						"tim",
+						"timeout	setTimeout function"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/charles/bands/main.rb",
+					"file": "/home/charles/Projects/grunt-text-statistics/TextStatistics.js/index.js",
 					"settings":
 					{
-						"buffer_size": 135718,
+						"buffer_size": 7330,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/charles/bands/discovery",
+					"file": "/home/charles/Projects/grunt-text-statistics/TextStatistics.js/test/text_statistics.test.js",
 					"settings":
 					{
-						"buffer_size": 3283,
-						"line_ending": "Unix",
-						"name": "booking@badearl.com"
-					}
-				},
-				{
-					"file": "/home/charles/bands/echonest.rb",
-					"settings":
-					{
-						"buffer_size": 2910,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/charles/bands/app/public/index.html",
-					"settings":
-					{
-						"buffer_size": 5211,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/charles/bands/app/public/js/main.js",
-					"settings":
-					{
-						"buffer_size": 121649,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/charles/bands/app/app.js",
-					"settings":
-					{
-						"buffer_size": 1592,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/charles/bands/api_keys.rb",
-					"settings":
-					{
-						"buffer_size": 318,
+						"buffer_size": 16298,
 						"line_ending": "Unix"
 					}
 				}
@@ -2068,9 +2339,73 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 32.0,
+				"height": 192.0,
 				"selected_items":
 				[
+					[
+						"markd",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"z",
+						"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+					],
+					[
+						"convert",
+						"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+					],
+					[
+						"aaapacka",
+						"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+					],
+					[
+						"packagedev",
+						"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"new ",
+						"Jekyll: New draft"
+					],
+					[
+						"new",
+						"Jekyll: New draft"
+					],
+					[
+						"jek",
+						"Jekyll: New post"
+					],
+					[
+						"jshi",
+						"JSHint"
+					],
 					[
 						"Package Control: ",
 						"Package Control: List Packages"
@@ -2092,24 +2427,12 @@
 						"JSHint"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"markdow",
 						"Markdown Preview: Preview in Browser"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"package",
 						"Package Control: Enable Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
 					],
 					[
 						"js",
@@ -2136,14 +2459,6 @@
 						"Set Syntax: Todo"
 					],
 					[
-						"mar",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"mark",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
 						"list pa",
 						"Package Control: List Packages"
 					],
@@ -2157,10 +2472,6 @@
 					],
 					[
 						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"remove",
 						"Package Control: Remove Package"
 					],
 					[
@@ -2305,134 +2616,134 @@
 			},
 			"file_history":
 			[
-				"/home/charles/bands/app/app.js",
-				"/home/charles/bands/api_keys.rb",
-				"/home/charles/bands/lastfm.rb",
-				"/home/charles/bands/.gitignore",
-				"/home/charles/bands/mongo.rb",
-				"/home/charles/bands/echonest.rb",
-				"/home/charles/bands/echowrap/lib/echowrap/artist.rb",
-				"/home/charles/bands/nbs.rb",
-				"/home/charles/bands/songkick.rb",
-				"/home/charles/bands/rn_scrape.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/request.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/artist.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client.rb",
-				"/home/charles/bands/songkick_ruby/songkick_ruby.gemspec",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/event.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/search.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/calendar.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/errors.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick/client/user.rb",
-				"/home/charles/bands/songkick_ruby/lib/songkick.rb",
-				"/home/charles/bands/to_hash_monkeypatch.rb",
-				"/home/charles/bands/soundcloud.rb",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/main.js",
-				"/home/charles/Downloads/.org.chromium.Chromium.Bpc3ZY",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/helper/debug.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/bower_components/debug/Readme.md",
-				"/home/charles/Dropbox/Projects/Utterson/.jshintrc",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/post.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/models/post.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/main.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/styles/main.scss",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/posts.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/collections/post.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/collections/author.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/models/author.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/post.hbs",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/author.hbs",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/author.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/styles/main.css",
-				"/home/charles/Dropbox/Projects/Utterson/blog/data/author_store.json",
-				"/home/charles/Dropbox/Projects/Utterson/blog/data/authors/0.json",
-				"/home/charles/Dropbox/Projects/Utterson/README.md",
-				"/home/charles/Dropbox/Projects/Utterson/Gruntfile.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/data/custom.css",
-				"/home/charles/Dropbox/Projects/Utterson/blog/styles/base.scss",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/routes/router.js",
-				"/home/charles/.config/sublime-text-2/Packages/User/Jshintify.sublime-settings",
-				"/home/charles/Dropbox/Projects/Utterson/.tmp/scripts/templates.js",
-				"/home/charles/Dropbox/Projects/Utterson/.yo-rc.json",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/q.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/xpost.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/views/xposts.js",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/posts.hbs",
-				"/home/charles/Dropbox/Projects/Utterson/blog/scripts/templates/posts.ejs",
-				"/home/charles/Dropbox/Projects/Utterson/blog/index.html",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/models/post.js",
-				"/home/charles/Dropbox/Projects/blog/blog/index.html",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/templates/post.hbs",
-				"/home/charles/Dropbox/Projects/blog/blog2/scripts/main.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/main.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/posts.js",
-				"/home/charles/Dropbox/Projects/blog/blog2/index.html",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/collections/author.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/collections/post.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/models/author.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/post.js",
-				"/home/charles/Dropbox/Projects/blog/blog/scripts/views/author.js",
-				"/home/charles/Dropbox/Projects/blog/blog/data/author_store.json",
-				"/home/charles/Dropbox/Projects/blog/blog/data/authors/0",
-				"/home/charles/Dropbox/Projects/blog/blog/data/posts_store.json",
-				"/home/charles/Dropbox/Projects/blog/blog/data/posts/2",
-				"/home/charles/Dropbox/Projects/blog/blog/data/posts/0",
-				"/home/charles/Dropbox/Projects/blog/blog/data/content/posts/1",
-				"/home/charles/Dropbox/Projects/blog/TODO.md",
-				"/home/charles/Dropbox/Projects/blog/README.md",
-				"/home/charles/Dropbox/Projects/blog/bower.json",
-				"/home/charles/Dropbox/Projects/blog/Gruntfile.js",
-				"/home/charles/Dropbox/Projects/blog/TODOm.md",
-				"/home/charles/Dropbox/Projects/blog/blog/styles/base.scss",
-				"/home/charles/Dropbox/Projects/blog/blog/data/custom.css",
-				"/home/charles/Dropbox/Projects/truthiness/alchemyapi_node/.gitignore",
-				"/home/charles/Dropbox/Projects/truthiness/alchemyapi_node/package.json",
-				"/home/charles/Dropbox/Projects/blog/app/styles/base.scss",
-				"/home/charles/Dropbox/Projects/blog/.bowerrc",
-				"/home/charles/Dropbox/Projects/blog/.gitignore",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/main.js",
-				"/home/charles/Dropbox/Projects/blog/js/post.js",
-				"/home/charles/Dropbox/Projects/blog/js/routes.js",
-				"/home/charles/Dropbox/Projects/blog/js/author.js",
-				"/home/charles/Dropbox/Projects/blog/TODO",
-				"/home/charles/Dropbox/Projects/blog/index.html",
-				"/home/charles/Dropbox/Projects/blog/.yo-rc.json",
-				"/home/charles/Dropbox/Projects/blog/.editorconfig",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/models/author.js",
-				"/home/charles/Dropbox/Projects/blog/package.json",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/collections/post.js",
-				"/home/charles/Dropbox/Projects/blog/app/index.html",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/models/post.js",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/views/post.js",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/views/posts.js",
-				"/home/charles/Dropbox/Projects/blog/app/data/posts_store.json",
-				"/home/charles/Dropbox/Projects/blog/app/data/posts/3.md",
-				"/home/charles/Dropbox/Projects/blog/app/data/posts/1.md",
-				"/home/charles/Dropbox/Projects/blog/app/data/posts/2.md",
-				"/home/charles/Dropbox/Projects/blog/app/styles/main.scss",
-				"/home/charles/Dropbox/Projects/blog/index.js",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/collections/posts.js",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/models/posts.js",
-				"/home/charles/Dropbox/Projects/blog/app/styles/main.css",
-				"/home/charles/Dropbox/Projects/blog/app/scripts/routes/router.js",
-				"/home/charles/Dropbox/Projects/blog/data/posts_store.json",
-				"/home/charles/Dropbox/Projects/blog/css/base/base.css",
-				"/home/charles/Dropbox/Projects/blog/posts_store.json",
-				"/home/charles/Dropbox/Projects/blog/posts/1.md",
-				"/home/charles/Dropbox/Projects/blog/base.css",
-				"/home/charles/Dropbox/Projects/blog/vendor/highlight.js",
-				"/home/charles/Dropbox/Projects/blog/posts/2.md",
-				"/home/charles/Dropbox/Projects/blog/author_store.json",
-				"/home/charles/Dropbox/Projects/blog/post_store.js",
-				"/home/charles/dad/index.html",
-				"/home/charles/dad/index.js",
-				"/home/charles/dad/routes.js",
+				"/home/charles/Projects/grunt-text-statistics/TextStatistics.js/Gruntfile.js",
+				"/home/charles/Projects/grunt-text-statistics/TextStatistics.js/test/test.js",
+				"/home/charles/Projects/grunt-text-statistics/TextStatistics.js/test/text_statistics.test.js",
+				"/home/charles/Projects/grunt-text-statistics/TextStatistics.js/test/kipling_if.test.js",
+				"/home/charles/Projects/grunt-text-statistics/TextStatistics.js/test/melville_moby_dick.test.js",
+				"/home/charles/Projects/grunt-text-statistics/TextStatistics.js/test/cmu_lex.test.js",
+				"/home/charles/Projects/grunt-text-statistics/TextStatistics.js/package.json",
+				"/home/charles/Projects/grunt-text-statistics/Gruntfile.js",
+				"/home/charles/Projects/grunt-text-statistics/TextStatistics.js/text-statistics.js",
+				"/home/charles/Projects/grunt-text-statistics/node_modules/text-statistics/index.js",
+				"/home/charles/Projects/grunt-text-statistics/text-statistics.js",
+				"/home/charles/Projects/grunt-text-statistics/package.json",
+				"/home/charles/Projects/simple-web-tracker/.gitignore",
+				"/home/charles/Projects/rabid.audio/_posts/2015-1-7-if-i-were-a-professor.md",
+				"/home/charles/Projects/rabid.audio/README.md",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_core.scss",
+				"/home/charles/Projects/rabid.audio/_plugins/wikipe_link.rb",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_home.scss",
+				"/home/charles/Projects/rabid.audio/assets/_src/console_message.js",
+				"/home/charles/Projects/rabid.audio/assets/_src/keyboard_shortcuts.js",
+				"/home/charles/Projects/rabid.audio/assets/_src/page_swipe.js",
+				"/home/charles/Projects/rabid.audio/assets/_src/natural_date_replacements.js",
+				"/home/charles/Projects/rabid.audio/assets/_src/header_anchors.js",
+				"/home/charles/Projects/rabid.audio/Gruntfile.js",
+				"/home/charles/Projects/rabid.audio/_includes/header.html",
+				"/home/charles/Projects/rabid.audio/assets/_src/dinkus_to_top.js",
+				"/home/charles/Projects/rabid.audio/feed.xml",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_other.scss",
+				"/home/charles/Projects/rabid.audio/_includes/dinkus.html",
+				"/home/charles/Projects/rabid.audio/_layouts/default.html",
+				"/home/charles/Projects/rabid.audio/_drafts/2014-12-18-cheatsheet.md",
+				"/home/charles/Projects/rabid.audio/_sass/_mobile.scss",
+				"/home/charles/Projects/rabid.audio/_posts/2015-1-10-ac-light-dimmer-circuit.md",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_images.scss",
+				"/home/charles/.config/sublime-text-2/Packages/Jekyll/README.md",
+				"/home/charles/Projects/rabid.audio/assets/_src/image_caption.js",
+				"/home/charles/Projects/rabid.audio/_plugins/better_image_tag.rb",
+				"/home/charles/Projects/rabid.audio/_config.yml",
+				"/home/charles/Projects/rabid.audio/Gemfile",
+				"/home/charles/Projects/rabid.audio/_includes/head.html",
+				"/home/charles/Projects/rabid.audio/node_modules/grunt/node_modules/underscore.string/Gemfile",
+				"/home/charles/Projects/rabid.audio/_sass/_rabidaudio.scss",
+				"/home/charles/Projects/rabid.audio/_includes/colored_tags.html",
+				"/home/charles/Projects/rabid.audio/_includes/post_list_item.html",
+				"/home/charles/Projects/rabid.audio/all.html",
+				"/home/charles/Projects/rabid.audio/_layouts/post.html",
+				"/home/charles/Projects/rabid.audio/index.html",
+				"/home/charles/Projects/rabid.audio/bower.json",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_content.scss",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_post.scss",
+				"/home/charles/Projects/rabid.audio/_posts/2010-06-21-effects-pedals-15.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-05-14-effects-pedals-1.html",
+				"/home/charles/Projects/rabid.audio/_templates/page_head.yaml.hbs",
+				"/home/charles/Projects/rabid.audio/about.md",
+				"/home/charles/Projects/rabid.audio/_includes/headshot.html",
+				"/home/charles/Projects/rabid.audio/_templates/page.md.hbs",
+				"/home/charles/Projects/rabid.audio/_templates/post.md.hbs",
+				"/home/charles/Projects/rabid.audio/_templates/post_head.yaml.hbs",
+				"/home/charles/Projects/rabid.audio/_templates/post.md",
+				"/home/charles/Projects/rabid.audio/_includes/social.html",
+				"/home/charles/Projects/rabid.audio/_drafts/2015-1-8-asd.md",
+				"/home/charles/Projects/rabid.audio/package.json",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_footer.scss",
+				"/home/charles/Projects/rabid.audio/_posts/2015-1-8-asdf.md",
+				"/home/charles/Projects/rabid.audio/_includes/colorset.html",
+				"/home/charles/Projects/rabid.audio/_includes/footer.html",
+				"/home/charles/Projects/rabid.audio/css/main.scss",
+				"/home/charles/Projects/rabid.audio/_sass/_base.scss",
+				"/home/charles/Projects/rabid.audio/_sass/rabidaudio/_header.scss",
+				"/home/charles/Projects/rabid.audio/_site/blog/css/main.css",
+				"/home/charles/Projects/rabid.audio/_posts/2014-12-18-using-grunt-with-jekyll.md",
+				"/home/charles/Projects/rabid.audio/_posts/2010-02-08-welcome.html",
+				"/home/charles/Projects/rabid.audio/_posts/2015-1-2-interview-questions.md",
+				"/home/charles/Projects/rabid.audio/_posts/2015-1-2-android-callbacks.md",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/lang/en/settings.php",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/action.php",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/conf/metadata.php",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/conf/default.php",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/lang/en/lang.php",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/README.md",
+				"/home/charles/Projects/dokuwiki/data/pages/_autostartpage.txt",
+				"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage/plugin.info.txt",
+				"/home/charles/Projects/static-site-comments/index.html",
+				"/home/charles/Projects/static-site-comments/akismet.js/README.md",
+				"/home/charles/Projects/static-site-comments/akismet.js/.gitignore",
+				"/home/charles/Projects/static-site-comments/akismet.js/bin/make.js",
+				"/home/charles/Projects/static-site-comments/akismet.js/package.json",
+				"/home/charles/Projects/static-site-comments/akismet.js/bower.json",
+				"/home/charles/Projects/rabid.audio/_includes/comments_count.html",
+				"/home/charles/Projects/rabid.audio/_includes/comments.html",
+				"/home/charles/Projects/rabid.audio/_drafts/2014-11-10-best-discoveries-of-last-12-months.html",
+				"/home/charles/Projects/rabid.audio/_layouts/full-blank.html",
+				"/home/charles/Projects/rabid.audio/_vendor/javascript_utils/jquery_extensions.js",
+				"/home/charles/Projects/rabid.audio/_includes/album_art.js",
+				"/home/charles/Projects/rabid.audio/_vendor/javascript_utils/rand_subset.js",
+				"/home/charles/Projects/rabid.audio/_includes/cc.svg",
+				"/home/charles/Projects/rabid.audio/_includes/sa.svg",
+				"/home/charles/Projects/rabid.audio/_includes/by.svg",
+				"/home/charles/Projects/rabid.audio/_includes/creative_commons.html",
+				"/home/charles/Projects/rabid.audio/assets/js/output.js",
+				"/home/charles/Projects/rabid.audio/_layouts/no_wrapper.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-04-07-buoyancy.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-03-11-creative-commons.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-02-24-butch-walker.html",
+				"/home/charles/Projects/rabid.audio/_posts/2010-02-09-bad-news.html",
+				"/home/charles/Projects/rabid.audio/_posts/2011-10-08-must-read-blog-on-music-and-piracy.html",
+				"/home/charles/Projects/rabid.audio/_posts/2012-07-26-not-cloud-hive.html",
+				"/home/charles/Projects/rabid.audio/_drafts/2014-01-05-why-artpop-born-this-way.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-09-12-new-blog-on-way.html",
+				"/home/charles/Projects/rabid.audio/_layouts/page.html",
 				"/home/charles/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/charles/.config/sublime-text-2/Packages/User/MarkdownPreview.sublime-settings",
-				"/home/charles/.config/sublime-text-2/Packages/Markdown Preview/Default.sublime-commands",
-				"/home/charles/.config/sublime-text-2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
-				"/home/charles/Desktop/wira.mdown",
-				"/home/charles/dad/tags.js"
+				"/home/charles/Projects/rabid.audio/_includes/outdated.html",
+				"/home/charles/Projects/rabid.audio/_drafts/2013-12-03-startup-exchange.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-11-03-color-of-music-ii.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-06-08-wearable-lighty-shirty-thingy.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-02-18-swank-stupid-simple-static-webserver.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-01-28-temporary-solution.html",
+				"/home/charles/Projects/rabid.audio/_posts/2014-01-03-a-little-thing.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-08-13-discrete-potentiometer.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-05-12-lastfm-api-genre-influences.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-04-30-dsp-arduino.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-04-01-location-enabled-mesh-networking.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-02-15-circular-buffer-algorithm-rates-on.html",
+				"/home/charles/Projects/rabid.audio/_posts/2012-11-28-the-color-of-music.html",
+				"/home/charles/Projects/rabid.audio/_posts/2012-09-20-microsofts-impending-software.html",
+				"/home/charles/Projects/rabid.audio/_posts/2012-08-19-chorded-keyboard.html",
+				"/home/charles/Projects/rabid.audio/_posts/2013-08-29-wkipe-official-announcement.html",
+				"/home/charles/Projects/rabid.audio/_posts/2011-11-18-fun-with-lastfm-api.html"
 			],
 			"find":
 			{
@@ -2440,9 +2751,14 @@
 			},
 			"find_in_files":
 			{
-				"height": 90.0,
+				"height": 0.0,
 				"where_history":
 				[
+					"/home/charles/Projects/rabid.audio/_sass",
+					"/home/charles/Projects/dokuwiki/lib/plugins/autostartpage",
+					"/home/charles/Dropbox/Projects/blog2/rabid.audio/_posts",
+					"/home/charles/Dropbox/Projects/blog2/rabid.audio",
+					"/home/charles/Dropbox/Projects/blog2/rabid.audio/_drafts",
 					"/home/charles/bands/songkick_ruby/lib",
 					"/home/charles/Dropbox/Projects/Utterson/blog/scripts",
 					"",
@@ -2460,134 +2776,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"tags",
-					"”",
-					"mbid",
-					"result[\"artist\"]",
-					"remote",
-					"REMOTE",
-					"remote",
-					"API_URL",
-					"username",
-					"users/",
-					"username,",
-					"users/",
-					"users",
-					"irb(main):00",
-					"\"}, ",
-					"},",
-					"Lastfm",
-					"LastFM",
-					"LASTFM",
-					"LastFM",
-					"LASTFM",
-					"LastFM",
-					"lastfm_",
-					"q",
-					"\"",
-					"this",
-					"console",
-					"View",
-					"Debug",
-					"view",
-					"this",
-					"that",
-					"\"",
-					"Templates",
-					"JST",
-					"\"",
-					"sass",
-					"\"",
-					"source\")",
-					"\"",
-					"source\")",
-					"\"",
-					"source\")",
-					"\"",
-					"{\n",
-					"\"",
-					"handlebars",
-					"watch",
-					"handlebars",
-					"dist",
-					"JST",
-					"requ",
-					"bowerInstall",
-					"ignore",
-					"\"",
-					"app",
-					" (\\[.*\\])\\[(.*)\\] ",
-					"(\\[.*\\])\\[(.*)\\]",
-					"[XAMPP][http://www.apachefriends.org/index.html] every time I changed projects, so I whipped up a little project called [swank][https://github.com/rabidaudio/swank]",
-					"(\\[.*\\])\\[(.*)\\]",
-					"\\[.*\\]\\[\\]",
-					"(\\[.*\\])\\[\\]",
-					"((\\[.*\\])\\[\\]",
-					"hljs",
-					"console.log",
-					"m",
-					"datar",
+					"    }",
+					"$this->",
+					"$this->TextStatistics->",
+					"$this->assertEquals",
+					"    {",
+					"()\n    {",
+					"public function ",
+					"    }",
+					"$this->strText",
+					"$this->TextStatistics->",
+					"$this->assertEquals",
+					"    {",
+					"    { ",
+					"()\n    {",
+					"public function ",
+					"$this->TextStatistics->",
+					"$this->assertEquals",
+					"$this->TextStatistics->",
+					"DaveChild\\TextStatistics\\Text::",
+					"$this->assertSame",
+					"automated_readability_index",
+					"smog_index",
+					"coleman_liau_index",
+					"gunning_fog_score",
+					"flesch_kincaid_grade_level",
+					"flesch_kincaid_reading_ease",
+					"$this->TextStatistics->",
+					"$this->assertEquals",
+					"    {",
+					"    }",
+					"()\n    {",
+					"public function ",
+					"$this->TextStatistics->",
+					"$this->assertEquals",
+					"round",
+					")));",
+					"number_format($this->TextStatistics->",
+					"$this->assertEquals",
+					"assert.equals",
+					"$this->TextStatistics->",
+					"$this->assertEquals",
+					"TS().",
+					"l`(",
+					"$this->TextStatistics->",
+					"$this->assertEquals",
+					"$this->TextStatistics->",
+					"this->assertEquals(",
+					"TS()",
 					"input",
-					"Input",
+					"TS.",
+					"input",
+					"(TS",
+					", 1",
+					"input",
+					"ts",
+					"tS",
+					"ts",
+					"1, ",
+					"));",
+					"$this->TextStatistics->syllableCount",
+					"$this->assertEquals",
+					"));",
+					"$this->TextStatistics->letterCount",
+					"$this->assertSame",
+					"ts.",
+					"ts.textLength",
+					"ts.",
 					"\"",
-					"inputsSchema",
-					"Config",
-					"configSchema",
-					"json",
-					"mailto:",
-					"mailto:\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\\b",
-					"\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\\b",
-					" +",
-					"\\s+",
-					"\\s",
-					"this",
-					"n_p",
-					"\\ln",
-					"response",
-					"$(this).val()",
-					"console.log",
-					"require",
-					"less",
-					"dev",
-					"browserify",
-					"var ",
-					"create_speaker()",
-					"sudo",
-					"create",
-					"GUI",
-					"gui",
-					"GUI",
-					"IO",
-					"Library",
-					"that",
-					"e",
-					"underscore",
-					":",
-					"p",
-					"{ Helper.random_string }",
-					"@definition",
-					"@definition.random_string",
-					"MEOW",
-					"Helpers",
-					"::",
-					"Helpers",
+					"github.com/charles",
+					"charles",
+					"\"",
+					"request",
+					"Request",
+					"request",
+					"data.",
+					"Introduction - Modernism and Postmodernism",
+					"[A-Z].*",
+					"Introduction",
+					"  |",
+					"{% wkipe",
+					"g  ",
+					" g ",
+					"console.",
+					"gg",
+					"ff",
+					"onsole.",
+					"\"",
+					"key",
+					"style",
+					"message",
+					"string",
+					"optoc",
+					"fright",
+					"fleft",
+					"fright",
+					"fleft",
+					"source=",
+					"source",
+					".gsub(/\"/, \"\")",
+					"and not @attributes[:caption].nil?",
+					"title",
+					"source",
+					"@source",
+					"source",
+					"classes",
+					"src",
+					"options",
+					"Nokogiri::",
+					"cat.jpg",
+					"drawing",
+					"jpg",
+					"right",
+					"left",
+					"drawing",
+					".img-wrapper",
+					"img",
+					"lang",
 					"# ",
-					"random_string",
-					"end",
-					"configureProxies",
-					"Success",
-					"success",
-					"Success",
-					"success",
-					"approve",
-					"paypal_email",
-					"function getCode(",
-					"getCode(",
-					"Zend_Controller_Exception",
-					"Zend_Controller_Router_Exception",
-					"EXCEPTION_NO_ROUTE",
-					"Zend_Exception",
-					"error"
+					" %}",
+					"{% i ",
+					"\"",
+					"tmp",
+					"/tmp/",
+					"/tmp",
+					".*",
+					"current_color",
+					"400",
+					"\""
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2595,6 +2911,31 @@
 				"regex": false,
 				"replace_history":
 				[
+					"ts.",
+					"assert.equal",
+					"ts.",
+					"assert.equal",
+					"grey-color-darker",
+					"grey-color-lighter",
+					"\\n",
+					"darkerer",
+					"\\1",
+					" \\1",
+					"\\1 ",
+					"\\1",
+					"\"title\": \"\\\\\"\\1\\\\\"\",",
+					"\"title\": \"\"\\\\\"\\1\\\\\"\",",
+					"\"title\": \"\\\\\"\\1\\\\\",",
+					"false",
+					"true",
+					"\\1\"",
+					"\"\\1",
+					" \"\\1",
+					" \"",
+					"\"",
+					" \"",
+					"\":",
+					"\"",
 					"},\\n",
 					"'",
 					" \\1(\\2) ",
@@ -2621,39 +2962,37 @@
 			"folders":
 			[
 				{
-					"path": "/home/charles/bands"
+					"path": "/home/charles/Projects/grunt-text-statistics"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/charles/bands/main.rb",
+							"file": "/home/charles/Projects/grunt-text-statistics/TextStatistics.js/index.js",
 							"settings":
 							{
-								"buffer_size": 135718,
+								"buffer_size": 7330,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										312,
-										312
+										247,
+										247
 									]
 								],
 								"settings":
 								{
-									"auto_name": "",
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
-								"translation.x": 24.0,
+								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
@@ -2661,160 +3000,25 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/home/charles/bands/discovery",
+							"file": "/home/charles/Projects/grunt-text-statistics/TextStatistics.js/test/text_statistics.test.js",
 							"settings":
 							{
-								"buffer_size": 3283,
+								"buffer_size": 16298,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1142,
-										1142
-									]
-								],
-								"settings":
-								{
-									"auto_name": "booking@badearl.com",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/charles/bands/echonest.rb",
-							"settings":
-							{
-								"buffer_size": 2910,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										853,
-										853
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/charles/bands/app/public/index.html",
-							"settings":
-							{
-								"buffer_size": 5211,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4589,
-										4589
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1395.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/charles/bands/app/public/js/main.js",
-							"settings":
-							{
-								"buffer_size": 121649,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										121180,
-										121180
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/home/charles/bands/app/app.js",
-							"settings":
-							{
-								"buffer_size": 1592,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
+										438,
+										438
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/home/charles/bands/api_keys.rb",
-							"settings":
-							{
-								"buffer_size": 318,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										283,
-										283
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2864,7 +3068,15 @@
 			{
 				"height": 100.0
 			},
-			"position": "0,1,0,0,0,0,0,0,0,1600,900",
+			"output.markdown":
+			{
+				"height": 100.0
+			},
+			"output.package_dev":
+			{
+				"height": 228.0
+			},
+			"position": "0,1,0,0,0,39,66,679,546,1600,900",
 			"replace":
 			{
 				"height": 62.0
@@ -2876,360 +3088,516 @@
 				"selected_items":
 				[
 					[
-						"post.j",
-						"blog/scripts/models/post.js"
+						"read",
+						"README.md"
 					],
 					[
-						"post.js",
-						"blog/scripts/models/post.js"
+						"_core",
+						"_sass/rabidaudio/_core.scss"
+					],
+					[
+						"wiki",
+						"_plugins/wikipe_link.rb"
+					],
+					[
+						"din",
+						"assets/_src/dinkus_to_top.js"
+					],
+					[
+						"dink",
+						"_includes/dinkus.html"
+					],
+					[
+						"header",
+						"_includes/header.html"
+					],
+					[
+						"defa",
+						"_layouts/default.html"
+					],
+					[
+						"feed",
+						"feed.xml"
+					],
+					[
+						"grunt",
+						"Gruntfile.js"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"chea",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						"image",
+						"_sass/rabidaudio/_images.scss"
+					],
+					[
+						"imag",
+						"_sass/rabidaudio/_images.scss"
+					],
+					[
+						"gr",
+						"Gruntfile.js"
+					],
+					[
+						"ac-l",
+						"_posts/2015-1-10-ac-light-dimmer-circuit.md"
+					],
+					[
+						"head",
+						"_includes/head.html"
+					],
+					[
+						"hea",
+						"_includes/header.html"
+					],
+					[
+						"gemf",
+						"Gemfile"
+					],
+					[
+						"gem",
+						"node_modules/grunt/node_modules/underscore.string/Gemfile"
+					],
+					[
+						"_conf",
+						"_config.yml"
+					],
+					[
+						"rabid",
+						"_sass/_rabidaudio.scss"
+					],
+					[
+						"cheat",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"all",
+						"all.html"
+					],
+					[
+						"bow",
+						"bower.json"
 					],
 					[
 						"post",
-						"blog/scripts/views/post.js"
+						"_layouts/post.html"
 					],
 					[
-						"posts.",
-						"blog/scripts/views/posts.js"
+						"colored",
+						"_includes/colored_tags.html"
 					],
 					[
-						"post.",
-						"blog/scripts/models/post.js"
+						"post_",
+						"_includes/post_list_item.html"
 					],
 					[
-						"author.js",
-						"blog/scripts/models/author.js"
+						"_con",
+						"_config.yml"
 					],
 					[
-						"posts.js",
-						"app/scripts/collections/posts.js"
+						"abou",
+						"about.md"
 					],
 					[
-						"posts.j",
-						"app/scripts/views/posts.js"
+						"soc",
+						"_includes/social.html"
 					],
 					[
-						"internal",
-						"internal.h"
+						"post.md",
+						"_templates/post.md"
 					],
 					[
-						"st.h",
-						"include/ruby/st.h"
+						"pack",
+						"package.json"
 					],
 					[
-						"ruby.h",
-						"include/ruby/ruby.h"
+						"_c",
+						"_config.yml"
 					],
 					[
-						"appl",
-						"config/application.rb"
+						"asdf",
+						"_posts/2015-1-8-asdf.md"
 					],
 					[
-						"env.",
-						"features/support/env.rb"
+						"post.m",
+						"_templates/post.md"
 					],
 					[
-						"to_payments",
-						"migrations/20140506224933_add_paypal_correlation_id_to_payments.php"
+						"grun",
+						"Gruntfile.js"
 					],
 					[
-						"payments",
-						"application/models/DbTable/Payments.php"
+						"conso",
+						"assets/_src/console_message.js"
 					],
 					[
-						"util",
-						"application/library/Util.php"
+						"colr",
+						"_includes/colorset.html"
 					],
 					[
-						"appli",
-						"application/configs/application.ini"
+						"content",
+						"_sass/rabidaudio/_content.scss"
 					],
 					[
-						"admined",
-						"application/controllers/AdminEditorController.php"
+						"foo",
+						"_includes/footer.html"
 					],
 					[
-						"payment",
-						"application/models/DbTable/Payments.php"
+						"foot",
+						"_sass/rabidaudio/_footer.scss"
 					],
 					[
-						"user",
-						"application/models/User.php"
+						"main",
+						"css/main.scss"
 					],
 					[
-						"mytes",
-						"application/controllers/MytestController.php"
+						"color",
+						"_includes/colorset.html"
 					],
 					[
-						"feat",
-						"application/library/EnabledFeatures.php"
+						"core",
+						"_sass/rabidaudio/_core.scss"
 					],
 					[
-						"transc",
-						"application/controllers/TranscriberController.php"
+						"che",
+						"_drafts/2014-12-18-cheatsheet.md"
 					],
 					[
-						"dbtablepaym",
-						"application/models/DbTable/Payments.php"
+						"_config",
+						"_config.yml"
 					],
 					[
-						"transcr",
-						"application/models/Transcriber.php"
-					],
-					[
-						"admincontr",
-						"application/controllers/AdminEditorController.php"
-					],
-					[
-						"adminco",
-						"application/controllers/AdminsController.php"
-					],
-					[
-						"dbtablepayments",
-						"application/models/DbTable/Payments.php"
-					],
-					[
-						"vendor/bin/phinx",
-						"vendor/robmorgan/phinx/src/Phinx/Db/Adapter/MysqlAdapter.php"
-					],
-					[
-						"phinx",
-						"vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php"
-					],
-					[
-						"completed_to",
-						"migrations/20140501225723_add_completed_to_payments.php"
-					],
-					[
-						"app",
-						"application/configs/application.ini"
-					],
-					[
-						"payme",
-						"application/controllers/PaymentController.php"
-					],
-					[
-						"log/mai",
-						"var/log/mail.log"
-					],
-					[
-						"admintransc",
-						"application/modules/admin/controllers/TranscribersController.php"
-					],
-					[
-						"paymentc",
-						"application/controllers/PaymentController.php"
-					],
-					[
-						"order",
-						"application/models/DbTable/Orders.php"
-					],
-					[
-						"transcriercon",
-						"application/controllers/TranscriberController.php"
-					],
-					[
-						"editor",
-						"application/views/scripts/transcriber/editor.phtml"
-					],
-					[
-						"clientc",
-						"application/controllers/ClientController.php"
-					],
-					[
-						"editor.p",
-						"application/views/scripts/transcriber/editor.phtml"
-					],
-					[
-						"_pages_edit",
-						"application/views/scripts/_pages/_editorMain.phtml"
-					],
-					[
-						"editor.ph",
-						"application/views/scripts/transcriber/editor.phtml"
-					],
-					[
-						"editorfilesplayer",
-						"public/editor/files/player.js"
-					],
-					[
-						"getnotescont",
-						"library/GetNotes/Controller/Action.php"
-					],
-					[
-						"trans",
-						"application/models/Transcriber.php"
-					],
-					[
-						"mytest",
-						"application/controllers/MytestController.php"
-					],
-					[
-						"transcri",
-						"application/models/Transcriber.php"
-					],
-					[
-						"admin",
-						"application/controllers/AdminEditorController.php"
-					],
-					[
-						"create_payments",
-						"migrations/20140409235618_create_payments_table.php"
-					],
-					[
-						"getnotesact",
-						"library/GetNotes/Controller/Action.php"
-					],
-					[
-						"getnotescontroller",
-						"library/GetNotes/Controller/Action.php"
-					],
-					[
-						"transcriberco",
-						"application/controllers/TranscriberController.php"
-					],
-					[
-						"transcriberget",
-						"application/views/scripts/transcriber/get.phtml"
-					],
-					[
-						"paymnts",
-						"application/models/DbTable/Payments.php"
-					],
-					[
-						"paypal",
-						"application/library/Paypal.php"
-					],
-					[
-						".md",
-						"development_setup.md"
-					],
-					[
-						"36",
-						"node_modules/lame/deps/mpg123/src/libmpg123/dct36_3dnow.S"
+						"androi",
+						"_posts/2015-1-2-android-callbacks.md"
 					],
 					[
 						".gitig",
 						".gitignore"
 					],
 					[
-						"compo",
-						"composer.json"
-					],
-					[
-						"twi",
-						"application/library/Twilio.php"
-					],
-					[
-						"hellp",
-						"application/library/HelloSign.php"
-					],
-					[
-						"hello",
-						"application/library/HelloSign.php"
-					],
-					[
-						"hellos",
-						"application/library/HelloSign.php"
-					],
-					[
-						"twili",
-						"application/library/Twilio.php"
-					],
-					[
-						"applica",
-						"application/configs/application.ini"
-					],
-					[
-						"composer",
-						"composer.json"
-					],
-					[
-						"jobs-",
-						"application/views/scripts/admin-editor/jobs-pending.phtml"
-					],
-					[
-						"adminuser",
-						"application/modules/admin/views/scripts/users/get.phtml"
-					],
-					[
-						"transcrberm",
-						"application/models/TranscriberMapper.php"
-					],
-					[
-						"usermapper",
-						"application/models/UserMapper.php"
-					],
-					[
-						"transcriber",
-						"application/modules/admin/controllers/TranscribersController.php"
-					],
-					[
-						"dbtableorders",
-						"application/models/DbTable/Orders.php"
-					],
-					[
-						"adminc",
-						"application/controllers/AdminsController.php"
-					],
-					[
-						"comments",
-						"migrations/20140320031336_add_graded_to_order_status_id_comments.php"
-					],
-					[
-						"createpayments",
-						"migrations/20140409235618_create_payments_table.php"
-					],
-					[
 						".git",
 						".gitignore"
 					],
 					[
-						"user.",
-						"application/models/User.php"
+						"bower",
+						"bower.json"
 					],
 					[
-						"orders.",
-						"application/models/DbTable/Orders.php"
+						"home.scs",
+						"_sass/rabidaudio/_home.scss"
 					],
 					[
-						"orderslist",
-						"application/views/scripts/_lists/_ordersList.phtml"
+						"home",
+						"_sass/rabidaudio/_home.scss"
 					],
 					[
-						"transcriber/",
-						"application/views/scripts/transcriber/index.phtml"
+						"inde",
+						"index.html"
 					],
 					[
-						"models/tra",
-						"application/models/Transcriber.php"
+						"best",
+						"_drafts/2014-11-10-best-discoveries-of-last-12-months.html"
 					],
 					[
-						"test",
-						"application/controllers/TestsController.php"
+						"key",
+						"assets/_src/keyboard_shortcuts.js"
 					],
 					[
-						"applicat",
-						"application/configs/application.ini"
+						"conf",
+						"_config.yml"
 					],
 					[
-						"getnotes/mail",
-						"library/GetNotes/Mailer.php"
+						"mob",
+						"_sass/_mobile.scss"
 					],
 					[
-						"models/inv",
-						"application/models/Invitation.php"
+						"mobi",
+						"_sass/_mobile.scss"
 					],
 					[
-						"mailer/inv",
-						"application/views/scripts/mailer/transcriber-invite.html.phtml"
+						"full",
+						"_layouts/full-blank.html"
 					],
 					[
-						"mailer/new",
-						"application/views/scripts/mailer/new-transcriber.html.phtml"
+						"bowe",
+						"bower.json"
 					],
 					[
-						"transcribersco",
-						"modules/admin/controllers/TranscribersController.php"
+						"ra",
+						"_sass/_rabidaudio.scss"
+					],
+					[
+						"jquer",
+						"_vendor/javascript_utils/jquery_extensions.js"
+					],
+					[
+						"keyb",
+						"assets/_src/keyboard_shortcuts.js"
+					],
+					[
+						"console",
+						"assets/_src/console_message.js"
+					],
+					[
+						"rand_",
+						"_vendor/javascript_utils/rand_subset.js"
+					],
+					[
+						"mobil",
+						"_sass/_mobile.scss"
+					],
+					[
+						"content.scss",
+						"_sass/rabidaudio/_content.scss"
+					],
+					[
+						"he",
+						"_includes/head.html"
+					],
+					[
+						"soci",
+						"_includes/social.html"
+					],
+					[
+						"def",
+						"_layouts/default.html"
+					],
+					[
+						"out",
+						"assets/js/output.js"
+					],
+					[
+						"cloud-",
+						"_posts/2012-07-26-not-cloud-hive.html"
+					],
+					[
+						"artpo",
+						"_drafts/2014-01-05-why-artpop-born-this-way.html"
+					],
+					[
+						"new-blo",
+						"_posts/2014-09-12-new-blog-on-way.html"
+					],
+					[
+						"new-blog",
+						"_posts/2014-09-12-new-blog-on-way.html"
+					],
+					[
+						"con",
+						"_config.yml"
+					],
+					[
+						"socia",
+						"_includes/social.html"
+					],
+					[
+						"headshot",
+						"_includes/headshot.html"
+					],
+					[
+						"defau",
+						"_layouts/default.html"
+					],
+					[
+						"dinku",
+						"_includes/dinkus.html"
+					],
+					[
+						"headsh",
+						"_includes/headshot.html"
+					],
+					[
+						"page",
+						"_layouts/page.html"
+					],
+					[
+						"pos",
+						"_layouts/post.html"
+					],
+					[
+						"rab",
+						"_sass/_rabidaudio.scss"
+					],
+					[
+						"2013",
+						"_drafts/2013-12-03-blog-post.html"
+					],
+					[
+						"nat",
+						"_vendor/javascript_utils/natural_dates.js"
+					],
+					[
+						"natura",
+						"assets/_src/natural_date_replacements.js"
+					],
+					[
+						"confi",
+						"_config.yml"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"natural",
+						"_vendor/javascript_utils/natural_dates.js"
+					],
+					[
+						"div",
+						"divshot.json"
+					],
+					[
+						"grunt-with",
+						"_posts/2014-12-18-using-grunt-with-jekyll.md"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"jquery",
+						"_vendor/javascript_utils/jquery_extensions.js"
+					],
+					[
+						"postm",
+						"_templates/post.md"
+					],
+					[
+						"heash",
+						"_includes/headshot.html"
+					],
+					[
+						"natur",
+						"assets/_src/natural_date_replacements.js"
+					],
+					[
+						"po",
+						"_layouts/post.html"
+					],
+					[
+						"cc.svg",
+						"_includes/cc.svg"
+					],
+					[
+						"lay",
+						"_sass/_layout.scss"
+					],
+					[
+						"base",
+						"_sass/_base.scss"
+					],
+					[
+						"bowerrc",
+						".bowerrc"
+					],
+					[
+						"cc.sv",
+						"_includes/cc.svg"
+					],
+					[
+						"emai",
+						"_includes/email-icon.svg"
+					],
+					[
+						"gru",
+						"Gruntfile.js"
+					],
+					[
+						"2014-in",
+						"_posts/2014-12-18-using-grunt-with-jekyll.md"
+					],
+					[
+						"cheatsheet",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						"rabi",
+						"_sass/_rabidaudio.scss"
+					],
+					[
+						"cheatshee",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						"grunt-wi",
+						"_posts/2014-12-18-using-grunt-with-jekyll.md"
+					],
+					[
+						"default",
+						"_layouts/default.html"
+					],
+					[
+						"ab",
+						"about.md"
+					],
+					[
+						"colorset",
+						"_includes/colorset.html"
+					],
+					[
+						"rabud",
+						"_sass/_rabidaudio.scss"
+					],
+					[
+						"scss",
+						"css/main.scss"
+					],
+					[
+						"cheatshe",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						"readme",
+						"README.md"
+					],
+					[
+						"cheatsh",
+						"_drafts/2014-12-18-cheatsheet.md"
+					],
+					[
+						".bo",
+						".bowerrc"
+					],
+					[
+						"di",
+						"divshot.json"
+					],
+					[
+						"co",
+						"_config.yml"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"mesh",
+						"_posts/2013-04-01-location-enabled-mesh-networking.html"
+					],
+					[
+						"circular",
+						"_posts/2013-02-15-circular-buffer-algorithm-rates-on.html"
+					],
+					[
+						"arduino",
+						"_posts/2013-04-30-dsp-arduino.html"
+					],
+					[
+						"intrestin",
+						"_posts/2011-11-17-interesting-case-of-digital-property.html"
+					],
+					[
+						"must",
+						"_posts/2011-10-08-must-read-blog-on-music-and-piracy.html"
 					]
 				],
 				"width": 0.0
@@ -3248,7 +3616,7 @@
 			"side_bar_visible": true,
 			"side_bar_width": 268.0,
 			"status_bar_visible": true,
-			"window_id": 71,
+			"window_id": 129,
 			"workspace_name": ""
 		}
 	],
@@ -3256,6 +3624,9 @@
 	{
 		"recent_workspaces":
 		[
+			"/home/charles/Dropbox/Projects/blog2/rabid.audio/rabidaudio.sublime-project",
+			"/home/charles/Dropbox/Projects/blog2/rabid.audio/blog.sublime-project",
+			"/home/charles/Dropbox/Projects/blog2/rabidaudio_blog_2/blog.sublime-project"
 		]
 	}
 }
