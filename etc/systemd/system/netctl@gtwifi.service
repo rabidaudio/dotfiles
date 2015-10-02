@@ -1,6 +1,0 @@
-.include /usr/lib/systemd/system/netctl@.service
-
-[Unit]
-Description=A wireless connection using a custom network block configuration
-BindsTo=sys-subsystem-net-devices-wlp2s0.device
-After=sys-subsystem-net-devices-wlp2s0.device

@@ -1,0 +1,8 @@
+# /dev/mapper/root
+UUID=d333ed05-ed7c-4831-b9c0-bec9eb8ef681	/         	ext4      	rw,relatime,data=ordered	0 1
+
+# /dev/sda1 LABEL=SYSTEM
+UUID=A202-8614      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro	0 2
+
+# swap
+/swapfile		none		swap		defaults	0	0

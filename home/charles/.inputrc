@@ -1,0 +1,9 @@
+# dont ring bell before suggestions
+set show-all-if-ambiguous on
+# match suggestions of different case
+set completion-ignore-case on
+
+## arrow up
+"\e[A":history-search-backward
+## arrow down
+"\e[B":history-search-forward

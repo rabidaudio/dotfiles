@@ -1,7 +1,0 @@
-/***********
- * gtkhtml *
- ***********/
-GtkHTML {
-    background-color: @theme_base_color;
-    color: @theme_text_color;
-}

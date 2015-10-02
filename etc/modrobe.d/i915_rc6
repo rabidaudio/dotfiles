@@ -1,3 +1,0 @@
-#cjk added per arch wiki article on Zenbook UX31E
-#Enabling i915_enable_rc6 will improve battery performance significantly
-i915.i915_enable_rc6=1
